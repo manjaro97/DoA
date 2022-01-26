@@ -1,12 +1,12 @@
 #include "quickSort.h"
 
+#include <iostream>
+
 std::vector<int> QuickSort(std::vector<int> data, int low, int high){
     //Checking if there are values to sort
     if(low < high){
-        
         //Partitions the array to get the pivotposition
         int pivot = partitioning(data, low, high);
-        
         //Recurse the Quick Sort function with the new pivot
         //The function is called for left side and right side of the pivot
         data = QuickSort(data, low, pivot-1);
