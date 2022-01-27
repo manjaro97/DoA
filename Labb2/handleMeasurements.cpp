@@ -59,23 +59,23 @@ void handleMeasurements(int sampleSize){
     // Create and open a text file
     std::ofstream TxtFile("EvalueatedTime.txt");
 
-    for (int i = 0; i < (ds.size()/sampleSize); i++)
+    for (int differentSamples = 0; differentSamples < (ds.size()/sampleSize); differentSamples++)
     {
         long long sum = 0;
-        for (int i2 = 0; i2 < sampleSize; i2++){
-            sum += ds[i*sampleSize + i2].time;
+        for (int sameSamples = 0; sameSamples < sampleSize; sameSamples++){
+            sum += ds[differentSamples*sampleSize + sameSamples].time;
         }
         long long mean = sum/sampleSize;
 
         long long var = 0;
-        for(int n = 0; n < sampleSize; n++ )
+        for(int sameSamples = 0; sameSamples < sampleSize; sameSamples++ )
         {
-          var += (ds[i*sampleSize + n].time - mean) * (ds[i*sampleSize + n].time - mean);
+          var += (ds[differentSamples*sampleSize + sameSamples].time - mean) * (ds[differentSamples*sampleSize + sameSamples].time - mean);
         }
         var /= sampleSize;
         long long sd = sqrt(var);
 
-        TxtFile << ds[i*sampleSize].algorithm << ", " << ds[i*sampleSize].dataType << ", " << ds[i*sampleSize].timeFormat << ", " << mean << ", " << "N" << ", " << ds[i*sampleSize].N << ", samples, " << sampleSize << ", stdDev, " << sd << std::endl; 
+        TxtFile << ds[differentSamples*sampleSize].algorithm << ", " << ds[differentSamples*sampleSize].dataType << ", " << ds[differentSamples*sampleSize].timeFormat << ", " << mean << ", " << "N" << ", " << ds[differentSamples*sampleSize].N << ", samples, " << sampleSize << ", stdDev, " << sd << std::endl; 
     }
 
     TxtFile.close();
