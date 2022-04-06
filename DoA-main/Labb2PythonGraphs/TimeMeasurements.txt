@@ -1,0 +1,1120 @@
+SelectionSort Algorithm, Random Uniform Data, N = 1000, T[ns] = 8480200
+SelectionSort Algorithm, Ascending Data, N = 1000, T[ns] = 6955000
+SelectionSort Algorithm, Descending Data, N = 1000, T[ns] = 6706600
+SelectionSort Algorithm, Constant Data, N = 1000, T[ns] = 7628700
+InsertionSort Algorithm, Random Uniform Data, N = 1000, T[ns] = 6487700
+InsertionSort Algorithm, Ascending Data, N = 1000, T[ns] = 21700
+InsertionSort Algorithm, Descending Data, N = 1000, T[ns] = 14994700
+InsertionSort Algorithm, Constant Data, N = 1000, T[ns] = 83100
+QuickSort Algorithm (Rightmost element as Pivot), Random Uniform Data, N = 1000, T[ns] = 1367000
+QuickSort Algorithm (Rightmost element as Pivot), Ascending Data, N = 1000, T[ns] = 18756900
+QuickSort Algorithm (Rightmost element as Pivot), Descending Data, N = 1000, T[ns] = 12646000
+QuickSort Algorithm (Rightmost element as Pivot), Constant Data, N = 1000, T[ns] = 19113900
+QuickSort Algorithm (Median of three as Pivot), Random Data, N = 1000, T[ns] = 1033600
+QuickSort Algorithm (Median of three as Pivot), Ascending Data, N = 1000, T[ns] = 16425900
+QuickSort Algorithm (Median of three as Pivot), Descending Data, N = 1000, T[ns] = 13520900
+QuickSort Algorithm (Median of three as Pivot), Constant Data, N = 1000, T[ns] = 17305000
+std::sort Algorithm, Random Uniform Data, N = 1000, T[ns] = 281800
+std::sort Algorithm, Ascending Data, N = 1000, T[ns] = 226000
+std::sort Algorithm, Descending Data, N = 1000, T[ns] = 171800
+std::sort Algorithm, Constant Data, N = 1000, T[ns] = 207500
+SelectionSort Algorithm, Random Uniform Data, N = 1000, T[ns] = 6929700
+SelectionSort Algorithm, Ascending Data, N = 1000, T[ns] = 4218600
+SelectionSort Algorithm, Descending Data, N = 1000, T[ns] = 5387200
+SelectionSort Algorithm, Constant Data, N = 1000, T[ns] = 4488200
+InsertionSort Algorithm, Random Uniform Data, N = 1000, T[ns] = 6242100
+InsertionSort Algorithm, Ascending Data, N = 1000, T[ns] = 66600
+InsertionSort Algorithm, Descending Data, N = 1000, T[ns] = 11000100
+InsertionSort Algorithm, Constant Data, N = 1000, T[ns] = 32600
+QuickSort Algorithm (Rightmost element as Pivot), Random Uniform Data, N = 1000, T[ns] = 1047300
+QuickSort Algorithm (Rightmost element as Pivot), Ascending Data, N = 1000, T[ns] = 16037200
+QuickSort Algorithm (Rightmost element as Pivot), Descending Data, N = 1000, T[ns] = 15829500
+QuickSort Algorithm (Rightmost element as Pivot), Constant Data, N = 1000, T[ns] = 16489600
+QuickSort Algorithm (Median of three as Pivot), Random Data, N = 1000, T[ns] = 1030900
+QuickSort Algorithm (Median of three as Pivot), Ascending Data, N = 1000, T[ns] = 15628500
+QuickSort Algorithm (Median of three as Pivot), Descending Data, N = 1000, T[ns] = 11708200
+QuickSort Algorithm (Median of three as Pivot), Constant Data, N = 1000, T[ns] = 19390800
+std::sort Algorithm, Random Uniform Data, N = 1000, T[ns] = 519200
+std::sort Algorithm, Ascending Data, N = 1000, T[ns] = 266800
+std::sort Algorithm, Descending Data, N = 1000, T[ns] = 138900
+std::sort Algorithm, Constant Data, N = 1000, T[ns] = 264500
+SelectionSort Algorithm, Random Uniform Data, N = 1000, T[ns] = 6765500
+SelectionSort Algorithm, Ascending Data, N = 1000, T[ns] = 4178100
+SelectionSort Algorithm, Descending Data, N = 1000, T[ns] = 6752700
+SelectionSort Algorithm, Constant Data, N = 1000, T[ns] = 6543200
+InsertionSort Algorithm, Random Uniform Data, N = 1000, T[ns] = 5501500
+InsertionSort Algorithm, Ascending Data, N = 1000, T[ns] = 44800
+InsertionSort Algorithm, Descending Data, N = 1000, T[ns] = 11364400
+InsertionSort Algorithm, Constant Data, N = 1000, T[ns] = 17400
+QuickSort Algorithm (Rightmost element as Pivot), Random Uniform Data, N = 1000, T[ns] = 1099400
+QuickSort Algorithm (Rightmost element as Pivot), Ascending Data, N = 1000, T[ns] = 16899800
+QuickSort Algorithm (Rightmost element as Pivot), Descending Data, N = 1000, T[ns] = 12975900
+QuickSort Algorithm (Rightmost element as Pivot), Constant Data, N = 1000, T[ns] = 17399700
+QuickSort Algorithm (Median of three as Pivot), Random Data, N = 1000, T[ns] = 1396600
+QuickSort Algorithm (Median of three as Pivot), Ascending Data, N = 1000, T[ns] = 18700300
+QuickSort Algorithm (Median of three as Pivot), Descending Data, N = 1000, T[ns] = 13316900
+QuickSort Algorithm (Median of three as Pivot), Constant Data, N = 1000, T[ns] = 17068200
+std::sort Algorithm, Random Uniform Data, N = 1000, T[ns] = 344400
+std::sort Algorithm, Ascending Data, N = 1000, T[ns] = 236800
+std::sort Algorithm, Descending Data, N = 1000, T[ns] = 213700
+std::sort Algorithm, Constant Data, N = 1000, T[ns] = 316100
+SelectionSort Algorithm, Random Uniform Data, N = 1000, T[ns] = 5484900
+SelectionSort Algorithm, Ascending Data, N = 1000, T[ns] = 5634100
+SelectionSort Algorithm, Descending Data, N = 1000, T[ns] = 5435800
+SelectionSort Algorithm, Constant Data, N = 1000, T[ns] = 4060100
+InsertionSort Algorithm, Random Uniform Data, N = 1000, T[ns] = 7757600
+InsertionSort Algorithm, Ascending Data, N = 1000, T[ns] = 14900
+InsertionSort Algorithm, Descending Data, N = 1000, T[ns] = 46025100
+InsertionSort Algorithm, Constant Data, N = 1000, T[ns] = 78400
+QuickSort Algorithm (Rightmost element as Pivot), Random Uniform Data, N = 1000, T[ns] = 1411500
+QuickSort Algorithm (Rightmost element as Pivot), Ascending Data, N = 1000, T[ns] = 37595700
+QuickSort Algorithm (Rightmost element as Pivot), Descending Data, N = 1000, T[ns] = 11100500
+QuickSort Algorithm (Rightmost element as Pivot), Constant Data, N = 1000, T[ns] = 15724000
+QuickSort Algorithm (Median of three as Pivot), Random Data, N = 1000, T[ns] = 1357800
+QuickSort Algorithm (Median of three as Pivot), Ascending Data, N = 1000, T[ns] = 18113000
+QuickSort Algorithm (Median of three as Pivot), Descending Data, N = 1000, T[ns] = 13421300
+QuickSort Algorithm (Median of three as Pivot), Constant Data, N = 1000, T[ns] = 15768000
+std::sort Algorithm, Random Uniform Data, N = 1000, T[ns] = 391400
+std::sort Algorithm, Ascending Data, N = 1000, T[ns] = 219700
+std::sort Algorithm, Descending Data, N = 1000, T[ns] = 240800
+std::sort Algorithm, Constant Data, N = 1000, T[ns] = 263500
+SelectionSort Algorithm, Random Uniform Data, N = 1000, T[ns] = 5817800
+SelectionSort Algorithm, Ascending Data, N = 1000, T[ns] = 4460100
+SelectionSort Algorithm, Descending Data, N = 1000, T[ns] = 5949200
+SelectionSort Algorithm, Constant Data, N = 1000, T[ns] = 4080300
+InsertionSort Algorithm, Random Uniform Data, N = 1000, T[ns] = 6661700
+InsertionSort Algorithm, Ascending Data, N = 1000, T[ns] = 28800
+InsertionSort Algorithm, Descending Data, N = 1000, T[ns] = 11998400
+InsertionSort Algorithm, Constant Data, N = 1000, T[ns] = 20400
+QuickSort Algorithm (Rightmost element as Pivot), Random Uniform Data, N = 1000, T[ns] = 1080100
+QuickSort Algorithm (Rightmost element as Pivot), Ascending Data, N = 1000, T[ns] = 16277900
+QuickSort Algorithm (Rightmost element as Pivot), Descending Data, N = 1000, T[ns] = 12216800
+QuickSort Algorithm (Rightmost element as Pivot), Constant Data, N = 1000, T[ns] = 15279500
+QuickSort Algorithm (Median of three as Pivot), Random Data, N = 1000, T[ns] = 1311900
+QuickSort Algorithm (Median of three as Pivot), Ascending Data, N = 1000, T[ns] = 19553900
+QuickSort Algorithm (Median of three as Pivot), Descending Data, N = 1000, T[ns] = 13345400
+QuickSort Algorithm (Median of three as Pivot), Constant Data, N = 1000, T[ns] = 15696100
+std::sort Algorithm, Random Uniform Data, N = 1000, T[ns] = 384100
+std::sort Algorithm, Ascending Data, N = 1000, T[ns] = 129300
+std::sort Algorithm, Descending Data, N = 1000, T[ns] = 290500
+std::sort Algorithm, Constant Data, N = 1000, T[ns] = 205900
+SelectionSort Algorithm, Random Uniform Data, N = 1000, T[ns] = 6573900
+SelectionSort Algorithm, Ascending Data, N = 1000, T[ns] = 4132500
+SelectionSort Algorithm, Descending Data, N = 1000, T[ns] = 4700900
+SelectionSort Algorithm, Constant Data, N = 1000, T[ns] = 4425400
+InsertionSort Algorithm, Random Uniform Data, N = 1000, T[ns] = 5787600
+InsertionSort Algorithm, Ascending Data, N = 1000, T[ns] = 18500
+InsertionSort Algorithm, Descending Data, N = 1000, T[ns] = 10718900
+InsertionSort Algorithm, Constant Data, N = 1000, T[ns] = 17700
+QuickSort Algorithm (Rightmost element as Pivot), Random Uniform Data, N = 1000, T[ns] = 1444300
+QuickSort Algorithm (Rightmost element as Pivot), Ascending Data, N = 1000, T[ns] = 16175400
+QuickSort Algorithm (Rightmost element as Pivot), Descending Data, N = 1000, T[ns] = 12740500
+QuickSort Algorithm (Rightmost element as Pivot), Constant Data, N = 1000, T[ns] = 15395500
+QuickSort Algorithm (Median of three as Pivot), Random Data, N = 1000, T[ns] = 1547300
+QuickSort Algorithm (Median of three as Pivot), Ascending Data, N = 1000, T[ns] = 15788400
+QuickSort Algorithm (Median of three as Pivot), Descending Data, N = 1000, T[ns] = 11824600
+QuickSort Algorithm (Median of three as Pivot), Constant Data, N = 1000, T[ns] = 15872200
+std::sort Algorithm, Random Uniform Data, N = 1000, T[ns] = 392200
+std::sort Algorithm, Ascending Data, N = 1000, T[ns] = 268800
+std::sort Algorithm, Descending Data, N = 1000, T[ns] = 158000
+std::sort Algorithm, Constant Data, N = 1000, T[ns] = 281600
+SelectionSort Algorithm, Random Uniform Data, N = 1000, T[ns] = 4435100
+SelectionSort Algorithm, Ascending Data, N = 1000, T[ns] = 5830000
+SelectionSort Algorithm, Descending Data, N = 1000, T[ns] = 4213900
+SelectionSort Algorithm, Constant Data, N = 1000, T[ns] = 5774200
+InsertionSort Algorithm, Random Uniform Data, N = 1000, T[ns] = 4867600
+InsertionSort Algorithm, Ascending Data, N = 1000, T[ns] = 78000
+InsertionSort Algorithm, Descending Data, N = 1000, T[ns] = 10101100
+InsertionSort Algorithm, Constant Data, N = 1000, T[ns] = 19600
+QuickSort Algorithm (Rightmost element as Pivot), Random Uniform Data, N = 1000, T[ns] = 1462100
+QuickSort Algorithm (Rightmost element as Pivot), Ascending Data, N = 1000, T[ns] = 19006000
+QuickSort Algorithm (Rightmost element as Pivot), Descending Data, N = 1000, T[ns] = 14116400
+QuickSort Algorithm (Rightmost element as Pivot), Constant Data, N = 1000, T[ns] = 16471000
+QuickSort Algorithm (Median of three as Pivot), Random Data, N = 1000, T[ns] = 1507500
+QuickSort Algorithm (Median of three as Pivot), Ascending Data, N = 1000, T[ns] = 16021900
+QuickSort Algorithm (Median of three as Pivot), Descending Data, N = 1000, T[ns] = 12121400
+QuickSort Algorithm (Median of three as Pivot), Constant Data, N = 1000, T[ns] = 16567700
+std::sort Algorithm, Random Uniform Data, N = 1000, T[ns] = 404300
+std::sort Algorithm, Ascending Data, N = 1000, T[ns] = 181800
+std::sort Algorithm, Descending Data, N = 1000, T[ns] = 196100
+std::sort Algorithm, Constant Data, N = 1000, T[ns] = 246800
+SelectionSort Algorithm, Random Uniform Data, N = 1500, T[ns] = 13816200
+SelectionSort Algorithm, Ascending Data, N = 1500, T[ns] = 11798600
+SelectionSort Algorithm, Descending Data, N = 1500, T[ns] = 11591100
+SelectionSort Algorithm, Constant Data, N = 1500, T[ns] = 9688100
+InsertionSort Algorithm, Random Uniform Data, N = 1500, T[ns] = 11263100
+InsertionSort Algorithm, Ascending Data, N = 1500, T[ns] = 27700
+InsertionSort Algorithm, Descending Data, N = 1500, T[ns] = 23180400
+InsertionSort Algorithm, Constant Data, N = 1500, T[ns] = 42100
+QuickSort Algorithm (Rightmost element as Pivot), Random Uniform Data, N = 1500, T[ns] = 3590800
+QuickSort Algorithm (Rightmost element as Pivot), Ascending Data, N = 1500, T[ns] = 69720100
+QuickSort Algorithm (Rightmost element as Pivot), Descending Data, N = 1500, T[ns] = 43633700
+QuickSort Algorithm (Rightmost element as Pivot), Constant Data, N = 1500, T[ns] = 38652200
+QuickSort Algorithm (Median of three as Pivot), Random Data, N = 1500, T[ns] = 1627200
+QuickSort Algorithm (Median of three as Pivot), Ascending Data, N = 1500, T[ns] = 35975500
+QuickSort Algorithm (Median of three as Pivot), Descending Data, N = 1500, T[ns] = 27106400
+QuickSort Algorithm (Median of three as Pivot), Constant Data, N = 1500, T[ns] = 36464900
+std::sort Algorithm, Random Uniform Data, N = 1500, T[ns] = 612500
+std::sort Algorithm, Ascending Data, N = 1500, T[ns] = 351900
+std::sort Algorithm, Descending Data, N = 1500, T[ns] = 275400
+std::sort Algorithm, Constant Data, N = 1500, T[ns] = 421000
+SelectionSort Algorithm, Random Uniform Data, N = 1500, T[ns] = 9526400
+SelectionSort Algorithm, Ascending Data, N = 1500, T[ns] = 10395600
+SelectionSort Algorithm, Descending Data, N = 1500, T[ns] = 12185400
+SelectionSort Algorithm, Constant Data, N = 1500, T[ns] = 11259700
+InsertionSort Algorithm, Random Uniform Data, N = 1500, T[ns] = 12320900
+InsertionSort Algorithm, Ascending Data, N = 1500, T[ns] = 27000
+InsertionSort Algorithm, Descending Data, N = 1500, T[ns] = 25810700
+InsertionSort Algorithm, Constant Data, N = 1500, T[ns] = 26400
+QuickSort Algorithm (Rightmost element as Pivot), Random Uniform Data, N = 1500, T[ns] = 1749200
+QuickSort Algorithm (Rightmost element as Pivot), Ascending Data, N = 1500, T[ns] = 35581500
+QuickSort Algorithm (Rightmost element as Pivot), Descending Data, N = 1500, T[ns] = 27014000
+QuickSort Algorithm (Rightmost element as Pivot), Constant Data, N = 1500, T[ns] = 33673800
+QuickSort Algorithm (Median of three as Pivot), Random Data, N = 1500, T[ns] = 3134200
+QuickSort Algorithm (Median of three as Pivot), Ascending Data, N = 1500, T[ns] = 35406600
+QuickSort Algorithm (Median of three as Pivot), Descending Data, N = 1500, T[ns] = 30022400
+QuickSort Algorithm (Median of three as Pivot), Constant Data, N = 1500, T[ns] = 47770500
+std::sort Algorithm, Random Uniform Data, N = 1500, T[ns] = 715200
+std::sort Algorithm, Ascending Data, N = 1500, T[ns] = 603700
+std::sort Algorithm, Descending Data, N = 1500, T[ns] = 344900
+std::sort Algorithm, Constant Data, N = 1500, T[ns] = 568600
+SelectionSort Algorithm, Random Uniform Data, N = 1500, T[ns] = 10922500
+SelectionSort Algorithm, Ascending Data, N = 1500, T[ns] = 10566600
+SelectionSort Algorithm, Descending Data, N = 1500, T[ns] = 12151200
+SelectionSort Algorithm, Constant Data, N = 1500, T[ns] = 10300300
+InsertionSort Algorithm, Random Uniform Data, N = 1500, T[ns] = 12305300
+InsertionSort Algorithm, Ascending Data, N = 1500, T[ns] = 25900
+InsertionSort Algorithm, Descending Data, N = 1500, T[ns] = 22830900
+InsertionSort Algorithm, Constant Data, N = 1500, T[ns] = 23200
+QuickSort Algorithm (Rightmost element as Pivot), Random Uniform Data, N = 1500, T[ns] = 1571600
+QuickSort Algorithm (Rightmost element as Pivot), Ascending Data, N = 1500, T[ns] = 35211600
+QuickSort Algorithm (Rightmost element as Pivot), Descending Data, N = 1500, T[ns] = 29398900
+QuickSort Algorithm (Rightmost element as Pivot), Constant Data, N = 1500, T[ns] = 36177900
+QuickSort Algorithm (Median of three as Pivot), Random Data, N = 1500, T[ns] = 2659900
+QuickSort Algorithm (Median of three as Pivot), Ascending Data, N = 1500, T[ns] = 34788500
+QuickSort Algorithm (Median of three as Pivot), Descending Data, N = 1500, T[ns] = 27277000
+QuickSort Algorithm (Median of three as Pivot), Constant Data, N = 1500, T[ns] = 33634700
+std::sort Algorithm, Random Uniform Data, N = 1500, T[ns] = 557100
+std::sort Algorithm, Ascending Data, N = 1500, T[ns] = 336400
+std::sort Algorithm, Descending Data, N = 1500, T[ns] = 516100
+std::sort Algorithm, Constant Data, N = 1500, T[ns] = 348400
+SelectionSort Algorithm, Random Uniform Data, N = 1500, T[ns] = 10910600
+SelectionSort Algorithm, Ascending Data, N = 1500, T[ns] = 10669200
+SelectionSort Algorithm, Descending Data, N = 1500, T[ns] = 11763800
+SelectionSort Algorithm, Constant Data, N = 1500, T[ns] = 11554100
+InsertionSort Algorithm, Random Uniform Data, N = 1500, T[ns] = 12362000
+InsertionSort Algorithm, Ascending Data, N = 1500, T[ns] = 40300
+InsertionSort Algorithm, Descending Data, N = 1500, T[ns] = 25361800
+InsertionSort Algorithm, Constant Data, N = 1500, T[ns] = 27000
+QuickSort Algorithm (Rightmost element as Pivot), Random Uniform Data, N = 1500, T[ns] = 1641100
+QuickSort Algorithm (Rightmost element as Pivot), Ascending Data, N = 1500, T[ns] = 34421200
+QuickSort Algorithm (Rightmost element as Pivot), Descending Data, N = 1500, T[ns] = 26324000
+QuickSort Algorithm (Rightmost element as Pivot), Constant Data, N = 1500, T[ns] = 35706600
+QuickSort Algorithm (Median of three as Pivot), Random Data, N = 1500, T[ns] = 1767500
+QuickSort Algorithm (Median of three as Pivot), Ascending Data, N = 1500, T[ns] = 35416700
+QuickSort Algorithm (Median of three as Pivot), Descending Data, N = 1500, T[ns] = 26874200
+QuickSort Algorithm (Median of three as Pivot), Constant Data, N = 1500, T[ns] = 36373800
+std::sort Algorithm, Random Uniform Data, N = 1500, T[ns] = 808800
+std::sort Algorithm, Ascending Data, N = 1500, T[ns] = 371100
+std::sort Algorithm, Descending Data, N = 1500, T[ns] = 265900
+std::sort Algorithm, Constant Data, N = 1500, T[ns] = 839900
+SelectionSort Algorithm, Random Uniform Data, N = 1500, T[ns] = 11415600
+SelectionSort Algorithm, Ascending Data, N = 1500, T[ns] = 11046700
+SelectionSort Algorithm, Descending Data, N = 1500, T[ns] = 9795800
+SelectionSort Algorithm, Constant Data, N = 1500, T[ns] = 10158900
+InsertionSort Algorithm, Random Uniform Data, N = 1500, T[ns] = 11588400
+InsertionSort Algorithm, Ascending Data, N = 1500, T[ns] = 120800
+InsertionSort Algorithm, Descending Data, N = 1500, T[ns] = 23885500
+InsertionSort Algorithm, Constant Data, N = 1500, T[ns] = 25500
+QuickSort Algorithm (Rightmost element as Pivot), Random Uniform Data, N = 1500, T[ns] = 1608100
+QuickSort Algorithm (Rightmost element as Pivot), Ascending Data, N = 1500, T[ns] = 34901300
+QuickSort Algorithm (Rightmost element as Pivot), Descending Data, N = 1500, T[ns] = 25704600
+QuickSort Algorithm (Rightmost element as Pivot), Constant Data, N = 1500, T[ns] = 35398100
+QuickSort Algorithm (Median of three as Pivot), Random Data, N = 1500, T[ns] = 1613500
+QuickSort Algorithm (Median of three as Pivot), Ascending Data, N = 1500, T[ns] = 34627500
+QuickSort Algorithm (Median of three as Pivot), Descending Data, N = 1500, T[ns] = 28039500
+QuickSort Algorithm (Median of three as Pivot), Constant Data, N = 1500, T[ns] = 62466000
+std::sort Algorithm, Random Uniform Data, N = 1500, T[ns] = 684100
+std::sort Algorithm, Ascending Data, N = 1500, T[ns] = 377100
+std::sort Algorithm, Descending Data, N = 1500, T[ns] = 352500
+std::sort Algorithm, Constant Data, N = 1500, T[ns] = 406900
+SelectionSort Algorithm, Random Uniform Data, N = 1500, T[ns] = 10815900
+SelectionSort Algorithm, Ascending Data, N = 1500, T[ns] = 12549900
+SelectionSort Algorithm, Descending Data, N = 1500, T[ns] = 10789700
+SelectionSort Algorithm, Constant Data, N = 1500, T[ns] = 9429200
+InsertionSort Algorithm, Random Uniform Data, N = 1500, T[ns] = 10500800
+InsertionSort Algorithm, Ascending Data, N = 1500, T[ns] = 24000
+InsertionSort Algorithm, Descending Data, N = 1500, T[ns] = 23740300
+InsertionSort Algorithm, Constant Data, N = 1500, T[ns] = 24100
+QuickSort Algorithm (Rightmost element as Pivot), Random Uniform Data, N = 1500, T[ns] = 1784000
+QuickSort Algorithm (Rightmost element as Pivot), Ascending Data, N = 1500, T[ns] = 34028500
+QuickSort Algorithm (Rightmost element as Pivot), Descending Data, N = 1500, T[ns] = 28074600
+QuickSort Algorithm (Rightmost element as Pivot), Constant Data, N = 1500, T[ns] = 34549800
+QuickSort Algorithm (Median of three as Pivot), Random Data, N = 1500, T[ns] = 1628700
+QuickSort Algorithm (Median of three as Pivot), Ascending Data, N = 1500, T[ns] = 36084000
+QuickSort Algorithm (Median of three as Pivot), Descending Data, N = 1500, T[ns] = 25998600
+QuickSort Algorithm (Median of three as Pivot), Constant Data, N = 1500, T[ns] = 34959200
+std::sort Algorithm, Random Uniform Data, N = 1500, T[ns] = 623500
+std::sort Algorithm, Ascending Data, N = 1500, T[ns] = 304000
+std::sort Algorithm, Descending Data, N = 1500, T[ns] = 321300
+std::sort Algorithm, Constant Data, N = 1500, T[ns] = 337700
+SelectionSort Algorithm, Random Uniform Data, N = 1500, T[ns] = 10984000
+SelectionSort Algorithm, Ascending Data, N = 1500, T[ns] = 11303100
+SelectionSort Algorithm, Descending Data, N = 1500, T[ns] = 9872600
+SelectionSort Algorithm, Constant Data, N = 1500, T[ns] = 10371100
+InsertionSort Algorithm, Random Uniform Data, N = 1500, T[ns] = 12196200
+InsertionSort Algorithm, Ascending Data, N = 1500, T[ns] = 24500
+InsertionSort Algorithm, Descending Data, N = 1500, T[ns] = 24159600
+InsertionSort Algorithm, Constant Data, N = 1500, T[ns] = 25300
+QuickSort Algorithm (Rightmost element as Pivot), Random Uniform Data, N = 1500, T[ns] = 2018000
+QuickSort Algorithm (Rightmost element as Pivot), Ascending Data, N = 1500, T[ns] = 36004700
+QuickSort Algorithm (Rightmost element as Pivot), Descending Data, N = 1500, T[ns] = 26686400
+QuickSort Algorithm (Rightmost element as Pivot), Constant Data, N = 1500, T[ns] = 33599100
+QuickSort Algorithm (Median of three as Pivot), Random Data, N = 1500, T[ns] = 1650300
+QuickSort Algorithm (Median of three as Pivot), Ascending Data, N = 1500, T[ns] = 33538000
+QuickSort Algorithm (Median of three as Pivot), Descending Data, N = 1500, T[ns] = 26976800
+QuickSort Algorithm (Median of three as Pivot), Constant Data, N = 1500, T[ns] = 35768500
+std::sort Algorithm, Random Uniform Data, N = 1500, T[ns] = 539800
+std::sort Algorithm, Ascending Data, N = 1500, T[ns] = 286900
+std::sort Algorithm, Descending Data, N = 1500, T[ns] = 321500
+std::sort Algorithm, Constant Data, N = 1500, T[ns] = 343800
+SelectionSort Algorithm, Random Uniform Data, N = 2000, T[ns] = 17972300
+SelectionSort Algorithm, Ascending Data, N = 2000, T[ns] = 20129800
+SelectionSort Algorithm, Descending Data, N = 2000, T[ns] = 18125300
+SelectionSort Algorithm, Constant Data, N = 2000, T[ns] = 18033600
+InsertionSort Algorithm, Random Uniform Data, N = 2000, T[ns] = 23380300
+InsertionSort Algorithm, Ascending Data, N = 2000, T[ns] = 31300
+InsertionSort Algorithm, Descending Data, N = 2000, T[ns] = 39138200
+InsertionSort Algorithm, Constant Data, N = 2000, T[ns] = 23100
+QuickSort Algorithm (Rightmost element as Pivot), Random Uniform Data, N = 2000, T[ns] = 4722200
+QuickSort Algorithm (Rightmost element as Pivot), Ascending Data, N = 2000, T[ns] = 66266700
+QuickSort Algorithm (Rightmost element as Pivot), Descending Data, N = 2000, T[ns] = 54520800
+QuickSort Algorithm (Rightmost element as Pivot), Constant Data, N = 2000, T[ns] = 60323800
+QuickSort Algorithm (Median of three as Pivot), Random Data, N = 2000, T[ns] = 3196100
+QuickSort Algorithm (Median of three as Pivot), Ascending Data, N = 2000, T[ns] = 58617300
+QuickSort Algorithm (Median of three as Pivot), Descending Data, N = 2000, T[ns] = 44881000
+QuickSort Algorithm (Median of three as Pivot), Constant Data, N = 2000, T[ns] = 62021200
+std::sort Algorithm, Random Uniform Data, N = 2000, T[ns] = 658100
+std::sort Algorithm, Ascending Data, N = 2000, T[ns] = 394400
+std::sort Algorithm, Descending Data, N = 2000, T[ns] = 367100
+std::sort Algorithm, Constant Data, N = 2000, T[ns] = 528900
+SelectionSort Algorithm, Random Uniform Data, N = 2000, T[ns] = 18099200
+SelectionSort Algorithm, Ascending Data, N = 2000, T[ns] = 17283800
+SelectionSort Algorithm, Descending Data, N = 2000, T[ns] = 18866800
+SelectionSort Algorithm, Constant Data, N = 2000, T[ns] = 18922200
+InsertionSort Algorithm, Random Uniform Data, N = 2000, T[ns] = 21111400
+InsertionSort Algorithm, Ascending Data, N = 2000, T[ns] = 45600
+InsertionSort Algorithm, Descending Data, N = 2000, T[ns] = 39481100
+InsertionSort Algorithm, Constant Data, N = 2000, T[ns] = 115400
+QuickSort Algorithm (Rightmost element as Pivot), Random Uniform Data, N = 2000, T[ns] = 4709700
+QuickSort Algorithm (Rightmost element as Pivot), Ascending Data, N = 2000, T[ns] = 59709800
+QuickSort Algorithm (Rightmost element as Pivot), Descending Data, N = 2000, T[ns] = 47842400
+QuickSort Algorithm (Rightmost element as Pivot), Constant Data, N = 2000, T[ns] = 65843700
+QuickSort Algorithm (Median of three as Pivot), Random Data, N = 2000, T[ns] = 4039500
+QuickSort Algorithm (Median of three as Pivot), Ascending Data, N = 2000, T[ns] = 135814200
+QuickSort Algorithm (Median of three as Pivot), Descending Data, N = 2000, T[ns] = 46508500
+QuickSort Algorithm (Median of three as Pivot), Constant Data, N = 2000, T[ns] = 60211300
+std::sort Algorithm, Random Uniform Data, N = 2000, T[ns] = 710400
+std::sort Algorithm, Ascending Data, N = 2000, T[ns] = 780300
+std::sort Algorithm, Descending Data, N = 2000, T[ns] = 317200
+std::sort Algorithm, Constant Data, N = 2000, T[ns] = 489600
+SelectionSort Algorithm, Random Uniform Data, N = 2000, T[ns] = 18505500
+SelectionSort Algorithm, Ascending Data, N = 2000, T[ns] = 18318200
+SelectionSort Algorithm, Descending Data, N = 2000, T[ns] = 18747500
+SelectionSort Algorithm, Constant Data, N = 2000, T[ns] = 18163300
+InsertionSort Algorithm, Random Uniform Data, N = 2000, T[ns] = 23269600
+InsertionSort Algorithm, Ascending Data, N = 2000, T[ns] = 30800
+InsertionSort Algorithm, Descending Data, N = 2000, T[ns] = 41702900
+InsertionSort Algorithm, Constant Data, N = 2000, T[ns] = 31900
+QuickSort Algorithm (Rightmost element as Pivot), Random Uniform Data, N = 2000, T[ns] = 2668700
+QuickSort Algorithm (Rightmost element as Pivot), Ascending Data, N = 2000, T[ns] = 61464200
+QuickSort Algorithm (Rightmost element as Pivot), Descending Data, N = 2000, T[ns] = 49049900
+QuickSort Algorithm (Rightmost element as Pivot), Constant Data, N = 2000, T[ns] = 60764900
+QuickSort Algorithm (Median of three as Pivot), Random Data, N = 2000, T[ns] = 3457400
+QuickSort Algorithm (Median of three as Pivot), Ascending Data, N = 2000, T[ns] = 59882800
+QuickSort Algorithm (Median of three as Pivot), Descending Data, N = 2000, T[ns] = 46610700
+QuickSort Algorithm (Median of three as Pivot), Constant Data, N = 2000, T[ns] = 58160400
+std::sort Algorithm, Random Uniform Data, N = 2000, T[ns] = 739100
+std::sort Algorithm, Ascending Data, N = 2000, T[ns] = 408500
+std::sort Algorithm, Descending Data, N = 2000, T[ns] = 560400
+std::sort Algorithm, Constant Data, N = 2000, T[ns] = 438700
+SelectionSort Algorithm, Random Uniform Data, N = 2000, T[ns] = 19392200
+SelectionSort Algorithm, Ascending Data, N = 2000, T[ns] = 18314500
+SelectionSort Algorithm, Descending Data, N = 2000, T[ns] = 19184200
+SelectionSort Algorithm, Constant Data, N = 2000, T[ns] = 18091200
+InsertionSort Algorithm, Random Uniform Data, N = 2000, T[ns] = 20770900
+InsertionSort Algorithm, Ascending Data, N = 2000, T[ns] = 33000
+InsertionSort Algorithm, Descending Data, N = 2000, T[ns] = 42743900
+InsertionSort Algorithm, Constant Data, N = 2000, T[ns] = 31400
+QuickSort Algorithm (Rightmost element as Pivot), Random Uniform Data, N = 2000, T[ns] = 4765200
+QuickSort Algorithm (Rightmost element as Pivot), Ascending Data, N = 2000, T[ns] = 62713000
+QuickSort Algorithm (Rightmost element as Pivot), Descending Data, N = 2000, T[ns] = 48654200
+QuickSort Algorithm (Rightmost element as Pivot), Constant Data, N = 2000, T[ns] = 61891600
+QuickSort Algorithm (Median of three as Pivot), Random Data, N = 2000, T[ns] = 2625700
+QuickSort Algorithm (Median of three as Pivot), Ascending Data, N = 2000, T[ns] = 62133600
+QuickSort Algorithm (Median of three as Pivot), Descending Data, N = 2000, T[ns] = 50343800
+QuickSort Algorithm (Median of three as Pivot), Constant Data, N = 2000, T[ns] = 72929000
+std::sort Algorithm, Random Uniform Data, N = 2000, T[ns] = 896900
+std::sort Algorithm, Ascending Data, N = 2000, T[ns] = 636400
+std::sort Algorithm, Descending Data, N = 2000, T[ns] = 414400
+std::sort Algorithm, Constant Data, N = 2000, T[ns] = 536900
+SelectionSort Algorithm, Random Uniform Data, N = 2000, T[ns] = 18542100
+SelectionSort Algorithm, Ascending Data, N = 2000, T[ns] = 17896000
+SelectionSort Algorithm, Descending Data, N = 2000, T[ns] = 18065500
+SelectionSort Algorithm, Constant Data, N = 2000, T[ns] = 18928800
+InsertionSort Algorithm, Random Uniform Data, N = 2000, T[ns] = 21188900
+InsertionSort Algorithm, Ascending Data, N = 2000, T[ns] = 32900
+InsertionSort Algorithm, Descending Data, N = 2000, T[ns] = 40868100
+InsertionSort Algorithm, Constant Data, N = 2000, T[ns] = 31900
+QuickSort Algorithm (Rightmost element as Pivot), Random Uniform Data, N = 2000, T[ns] = 2486300
+QuickSort Algorithm (Rightmost element as Pivot), Ascending Data, N = 2000, T[ns] = 59181700
+QuickSort Algorithm (Rightmost element as Pivot), Descending Data, N = 2000, T[ns] = 47762200
+QuickSort Algorithm (Rightmost element as Pivot), Constant Data, N = 2000, T[ns] = 60021800
+QuickSort Algorithm (Median of three as Pivot), Random Data, N = 2000, T[ns] = 3368300
+QuickSort Algorithm (Median of three as Pivot), Ascending Data, N = 2000, T[ns] = 61642500
+QuickSort Algorithm (Median of three as Pivot), Descending Data, N = 2000, T[ns] = 48892600
+QuickSort Algorithm (Median of three as Pivot), Constant Data, N = 2000, T[ns] = 61008200
+std::sort Algorithm, Random Uniform Data, N = 2000, T[ns] = 779400
+std::sort Algorithm, Ascending Data, N = 2000, T[ns] = 423200
+std::sort Algorithm, Descending Data, N = 2000, T[ns] = 363400
+std::sort Algorithm, Constant Data, N = 2000, T[ns] = 493500
+SelectionSort Algorithm, Random Uniform Data, N = 2000, T[ns] = 19791200
+SelectionSort Algorithm, Ascending Data, N = 2000, T[ns] = 18158100
+SelectionSort Algorithm, Descending Data, N = 2000, T[ns] = 19466700
+SelectionSort Algorithm, Constant Data, N = 2000, T[ns] = 19827300
+InsertionSort Algorithm, Random Uniform Data, N = 2000, T[ns] = 21197100
+InsertionSort Algorithm, Ascending Data, N = 2000, T[ns] = 30100
+InsertionSort Algorithm, Descending Data, N = 2000, T[ns] = 41118100
+InsertionSort Algorithm, Constant Data, N = 2000, T[ns] = 31800
+QuickSort Algorithm (Rightmost element as Pivot), Random Uniform Data, N = 2000, T[ns] = 3068600
+QuickSort Algorithm (Rightmost element as Pivot), Ascending Data, N = 2000, T[ns] = 60327400
+QuickSort Algorithm (Rightmost element as Pivot), Descending Data, N = 2000, T[ns] = 104909500
+QuickSort Algorithm (Rightmost element as Pivot), Constant Data, N = 2000, T[ns] = 79081000
+QuickSort Algorithm (Median of three as Pivot), Random Data, N = 2000, T[ns] = 3326000
+QuickSort Algorithm (Median of three as Pivot), Ascending Data, N = 2000, T[ns] = 60346300
+QuickSort Algorithm (Median of three as Pivot), Descending Data, N = 2000, T[ns] = 45111200
+QuickSort Algorithm (Median of three as Pivot), Constant Data, N = 2000, T[ns] = 57815900
+std::sort Algorithm, Random Uniform Data, N = 2000, T[ns] = 917100
+std::sort Algorithm, Ascending Data, N = 2000, T[ns] = 390900
+std::sort Algorithm, Descending Data, N = 2000, T[ns] = 350200
+std::sort Algorithm, Constant Data, N = 2000, T[ns] = 703700
+SelectionSort Algorithm, Random Uniform Data, N = 2000, T[ns] = 19237500
+SelectionSort Algorithm, Ascending Data, N = 2000, T[ns] = 18051100
+SelectionSort Algorithm, Descending Data, N = 2000, T[ns] = 19454300
+SelectionSort Algorithm, Constant Data, N = 2000, T[ns] = 18327300
+InsertionSort Algorithm, Random Uniform Data, N = 2000, T[ns] = 22216600
+InsertionSort Algorithm, Ascending Data, N = 2000, T[ns] = 108200
+InsertionSort Algorithm, Descending Data, N = 2000, T[ns] = 42385700
+InsertionSort Algorithm, Constant Data, N = 2000, T[ns] = 40800
+QuickSort Algorithm (Rightmost element as Pivot), Random Uniform Data, N = 2000, T[ns] = 2391200
+QuickSort Algorithm (Rightmost element as Pivot), Ascending Data, N = 2000, T[ns] = 62499300
+QuickSort Algorithm (Rightmost element as Pivot), Descending Data, N = 2000, T[ns] = 47550600
+QuickSort Algorithm (Rightmost element as Pivot), Constant Data, N = 2000, T[ns] = 61426300
+QuickSort Algorithm (Median of three as Pivot), Random Data, N = 2000, T[ns] = 2973500
+QuickSort Algorithm (Median of three as Pivot), Ascending Data, N = 2000, T[ns] = 62788500
+QuickSort Algorithm (Median of three as Pivot), Descending Data, N = 2000, T[ns] = 49836500
+QuickSort Algorithm (Median of three as Pivot), Constant Data, N = 2000, T[ns] = 62752300
+std::sort Algorithm, Random Uniform Data, N = 2000, T[ns] = 725800
+std::sort Algorithm, Ascending Data, N = 2000, T[ns] = 481200
+std::sort Algorithm, Descending Data, N = 2000, T[ns] = 361600
+std::sort Algorithm, Constant Data, N = 2000, T[ns] = 523000
+SelectionSort Algorithm, Random Uniform Data, N = 2500, T[ns] = 29482700
+SelectionSort Algorithm, Ascending Data, N = 2500, T[ns] = 28418300
+SelectionSort Algorithm, Descending Data, N = 2500, T[ns] = 28849600
+SelectionSort Algorithm, Constant Data, N = 2500, T[ns] = 28534000
+InsertionSort Algorithm, Random Uniform Data, N = 2500, T[ns] = 40827000
+InsertionSort Algorithm, Ascending Data, N = 2500, T[ns] = 95800
+InsertionSort Algorithm, Descending Data, N = 2500, T[ns] = 60305600
+InsertionSort Algorithm, Constant Data, N = 2500, T[ns] = 101800
+QuickSort Algorithm (Rightmost element as Pivot), Random Uniform Data, N = 2500, T[ns] = 3431800
+QuickSort Algorithm (Rightmost element as Pivot), Ascending Data, N = 2500, T[ns] = 89536800
+QuickSort Algorithm (Rightmost element as Pivot), Descending Data, N = 2500, T[ns] = 70797600
+QuickSort Algorithm (Rightmost element as Pivot), Constant Data, N = 2500, T[ns] = 92943700
+QuickSort Algorithm (Median of three as Pivot), Random Data, N = 2500, T[ns] = 3296200
+QuickSort Algorithm (Median of three as Pivot), Ascending Data, N = 2500, T[ns] = 88470300
+QuickSort Algorithm (Median of three as Pivot), Descending Data, N = 2500, T[ns] = 71350100
+QuickSort Algorithm (Median of three as Pivot), Constant Data, N = 2500, T[ns] = 95621500
+std::sort Algorithm, Random Uniform Data, N = 2500, T[ns] = 977500
+std::sort Algorithm, Ascending Data, N = 2500, T[ns] = 528400
+std::sort Algorithm, Descending Data, N = 2500, T[ns] = 387200
+std::sort Algorithm, Constant Data, N = 2500, T[ns] = 607400
+SelectionSort Algorithm, Random Uniform Data, N = 2500, T[ns] = 28219300
+SelectionSort Algorithm, Ascending Data, N = 2500, T[ns] = 29579100
+SelectionSort Algorithm, Descending Data, N = 2500, T[ns] = 32065000
+SelectionSort Algorithm, Constant Data, N = 2500, T[ns] = 28961800
+InsertionSort Algorithm, Random Uniform Data, N = 2500, T[ns] = 33131600
+InsertionSort Algorithm, Ascending Data, N = 2500, T[ns] = 40300
+InsertionSort Algorithm, Descending Data, N = 2500, T[ns] = 63913600
+InsertionSort Algorithm, Constant Data, N = 2500, T[ns] = 90000
+QuickSort Algorithm (Rightmost element as Pivot), Random Uniform Data, N = 2500, T[ns] = 6893600
+QuickSort Algorithm (Rightmost element as Pivot), Ascending Data, N = 2500, T[ns] = 94757800
+QuickSort Algorithm (Rightmost element as Pivot), Descending Data, N = 2500, T[ns] = 73109800
+QuickSort Algorithm (Rightmost element as Pivot), Constant Data, N = 2500, T[ns] = 96820600
+QuickSort Algorithm (Median of three as Pivot), Random Data, N = 2500, T[ns] = 4897600
+QuickSort Algorithm (Median of three as Pivot), Ascending Data, N = 2500, T[ns] = 91366900
+QuickSort Algorithm (Median of three as Pivot), Descending Data, N = 2500, T[ns] = 73066600
+QuickSort Algorithm (Median of three as Pivot), Constant Data, N = 2500, T[ns] = 86789000
+std::sort Algorithm, Random Uniform Data, N = 2500, T[ns] = 772800
+std::sort Algorithm, Ascending Data, N = 2500, T[ns] = 812800
+std::sort Algorithm, Descending Data, N = 2500, T[ns] = 487800
+std::sort Algorithm, Constant Data, N = 2500, T[ns] = 798900
+SelectionSort Algorithm, Random Uniform Data, N = 2500, T[ns] = 27771800
+SelectionSort Algorithm, Ascending Data, N = 2500, T[ns] = 27599800
+SelectionSort Algorithm, Descending Data, N = 2500, T[ns] = 28260200
+SelectionSort Algorithm, Constant Data, N = 2500, T[ns] = 30010400
+InsertionSort Algorithm, Random Uniform Data, N = 2500, T[ns] = 32136300
+InsertionSort Algorithm, Ascending Data, N = 2500, T[ns] = 80300
+InsertionSort Algorithm, Descending Data, N = 2500, T[ns] = 61855400
+InsertionSort Algorithm, Constant Data, N = 2500, T[ns] = 129300
+QuickSort Algorithm (Rightmost element as Pivot), Random Uniform Data, N = 2500, T[ns] = 3247400
+QuickSort Algorithm (Rightmost element as Pivot), Ascending Data, N = 2500, T[ns] = 89772600
+QuickSort Algorithm (Rightmost element as Pivot), Descending Data, N = 2500, T[ns] = 72426000
+QuickSort Algorithm (Rightmost element as Pivot), Constant Data, N = 2500, T[ns] = 90343500
+QuickSort Algorithm (Median of three as Pivot), Random Data, N = 2500, T[ns] = 35733900
+QuickSort Algorithm (Median of three as Pivot), Ascending Data, N = 2500, T[ns] = 116437100
+QuickSort Algorithm (Median of three as Pivot), Descending Data, N = 2500, T[ns] = 69371800
+QuickSort Algorithm (Median of three as Pivot), Constant Data, N = 2500, T[ns] = 90056600
+std::sort Algorithm, Random Uniform Data, N = 2500, T[ns] = 814600
+std::sort Algorithm, Ascending Data, N = 2500, T[ns] = 551700
+std::sort Algorithm, Descending Data, N = 2500, T[ns] = 605200
+std::sort Algorithm, Constant Data, N = 2500, T[ns] = 797700
+SelectionSort Algorithm, Random Uniform Data, N = 2500, T[ns] = 28726700
+SelectionSort Algorithm, Ascending Data, N = 2500, T[ns] = 28275300
+SelectionSort Algorithm, Descending Data, N = 2500, T[ns] = 28583100
+SelectionSort Algorithm, Constant Data, N = 2500, T[ns] = 26885500
+InsertionSort Algorithm, Random Uniform Data, N = 2500, T[ns] = 31425800
+InsertionSort Algorithm, Ascending Data, N = 2500, T[ns] = 138200
+InsertionSort Algorithm, Descending Data, N = 2500, T[ns] = 63129100
+InsertionSort Algorithm, Constant Data, N = 2500, T[ns] = 36900
+QuickSort Algorithm (Rightmost element as Pivot), Random Uniform Data, N = 2500, T[ns] = 4761500
+QuickSort Algorithm (Rightmost element as Pivot), Ascending Data, N = 2500, T[ns] = 90148600
+QuickSort Algorithm (Rightmost element as Pivot), Descending Data, N = 2500, T[ns] = 74586600
+QuickSort Algorithm (Rightmost element as Pivot), Constant Data, N = 2500, T[ns] = 92268700
+QuickSort Algorithm (Median of three as Pivot), Random Data, N = 2500, T[ns] = 3162700
+QuickSort Algorithm (Median of three as Pivot), Ascending Data, N = 2500, T[ns] = 91365100
+QuickSort Algorithm (Median of three as Pivot), Descending Data, N = 2500, T[ns] = 72237900
+QuickSort Algorithm (Median of three as Pivot), Constant Data, N = 2500, T[ns] = 89509200
+std::sort Algorithm, Random Uniform Data, N = 2500, T[ns] = 939200
+std::sort Algorithm, Ascending Data, N = 2500, T[ns] = 664900
+std::sort Algorithm, Descending Data, N = 2500, T[ns] = 439600
+std::sort Algorithm, Constant Data, N = 2500, T[ns] = 587700
+SelectionSort Algorithm, Random Uniform Data, N = 2500, T[ns] = 30527400
+SelectionSort Algorithm, Ascending Data, N = 2500, T[ns] = 29702800
+SelectionSort Algorithm, Descending Data, N = 2500, T[ns] = 30190700
+SelectionSort Algorithm, Constant Data, N = 2500, T[ns] = 29104000
+InsertionSort Algorithm, Random Uniform Data, N = 2500, T[ns] = 33330400
+InsertionSort Algorithm, Ascending Data, N = 2500, T[ns] = 40100
+InsertionSort Algorithm, Descending Data, N = 2500, T[ns] = 62598300
+InsertionSort Algorithm, Constant Data, N = 2500, T[ns] = 38500
+QuickSort Algorithm (Rightmost element as Pivot), Random Uniform Data, N = 2500, T[ns] = 4404700
+QuickSort Algorithm (Rightmost element as Pivot), Ascending Data, N = 2500, T[ns] = 90001000
+QuickSort Algorithm (Rightmost element as Pivot), Descending Data, N = 2500, T[ns] = 74582600
+QuickSort Algorithm (Rightmost element as Pivot), Constant Data, N = 2500, T[ns] = 93712800
+QuickSort Algorithm (Median of three as Pivot), Random Data, N = 2500, T[ns] = 3665000
+QuickSort Algorithm (Median of three as Pivot), Ascending Data, N = 2500, T[ns] = 96569100
+QuickSort Algorithm (Median of three as Pivot), Descending Data, N = 2500, T[ns] = 73911000
+QuickSort Algorithm (Median of three as Pivot), Constant Data, N = 2500, T[ns] = 92571600
+std::sort Algorithm, Random Uniform Data, N = 2500, T[ns] = 822300
+std::sort Algorithm, Ascending Data, N = 2500, T[ns] = 525500
+std::sort Algorithm, Descending Data, N = 2500, T[ns] = 987600
+std::sort Algorithm, Constant Data, N = 2500, T[ns] = 586600
+SelectionSort Algorithm, Random Uniform Data, N = 2500, T[ns] = 28104900
+SelectionSort Algorithm, Ascending Data, N = 2500, T[ns] = 27583900
+SelectionSort Algorithm, Descending Data, N = 2500, T[ns] = 30412100
+SelectionSort Algorithm, Constant Data, N = 2500, T[ns] = 35131400
+InsertionSort Algorithm, Random Uniform Data, N = 2500, T[ns] = 32205600
+InsertionSort Algorithm, Ascending Data, N = 2500, T[ns] = 39600
+InsertionSort Algorithm, Descending Data, N = 2500, T[ns] = 62766900
+InsertionSort Algorithm, Constant Data, N = 2500, T[ns] = 38200
+QuickSort Algorithm (Rightmost element as Pivot), Random Uniform Data, N = 2500, T[ns] = 5189200
+QuickSort Algorithm (Rightmost element as Pivot), Ascending Data, N = 2500, T[ns] = 90293000
+QuickSort Algorithm (Rightmost element as Pivot), Descending Data, N = 2500, T[ns] = 70559500
+QuickSort Algorithm (Rightmost element as Pivot), Constant Data, N = 2500, T[ns] = 89758100
+QuickSort Algorithm (Median of three as Pivot), Random Data, N = 2500, T[ns] = 4151400
+QuickSort Algorithm (Median of three as Pivot), Ascending Data, N = 2500, T[ns] = 88119900
+QuickSort Algorithm (Median of three as Pivot), Descending Data, N = 2500, T[ns] = 73122800
+QuickSort Algorithm (Median of three as Pivot), Constant Data, N = 2500, T[ns] = 94267500
+std::sort Algorithm, Random Uniform Data, N = 2500, T[ns] = 962800
+std::sort Algorithm, Ascending Data, N = 2500, T[ns] = 511300
+std::sort Algorithm, Descending Data, N = 2500, T[ns] = 517800
+std::sort Algorithm, Constant Data, N = 2500, T[ns] = 582000
+SelectionSort Algorithm, Random Uniform Data, N = 2500, T[ns] = 27842700
+SelectionSort Algorithm, Ascending Data, N = 2500, T[ns] = 28754400
+SelectionSort Algorithm, Descending Data, N = 2500, T[ns] = 30238800
+SelectionSort Algorithm, Constant Data, N = 2500, T[ns] = 32300100
+InsertionSort Algorithm, Random Uniform Data, N = 2500, T[ns] = 31996700
+InsertionSort Algorithm, Ascending Data, N = 2500, T[ns] = 38200
+InsertionSort Algorithm, Descending Data, N = 2500, T[ns] = 65410200
+InsertionSort Algorithm, Constant Data, N = 2500, T[ns] = 63100
+QuickSort Algorithm (Rightmost element as Pivot), Random Uniform Data, N = 2500, T[ns] = 4273000
+QuickSort Algorithm (Rightmost element as Pivot), Ascending Data, N = 2500, T[ns] = 89956200
+QuickSort Algorithm (Rightmost element as Pivot), Descending Data, N = 2500, T[ns] = 152968300
+QuickSort Algorithm (Rightmost element as Pivot), Constant Data, N = 2500, T[ns] = 90548800
+QuickSort Algorithm (Median of three as Pivot), Random Data, N = 2500, T[ns] = 3348800
+QuickSort Algorithm (Median of three as Pivot), Ascending Data, N = 2500, T[ns] = 90055100
+QuickSort Algorithm (Median of three as Pivot), Descending Data, N = 2500, T[ns] = 71393700
+QuickSort Algorithm (Median of three as Pivot), Constant Data, N = 2500, T[ns] = 91866200
+std::sort Algorithm, Random Uniform Data, N = 2500, T[ns] = 746100
+std::sort Algorithm, Ascending Data, N = 2500, T[ns] = 588900
+std::sort Algorithm, Descending Data, N = 2500, T[ns] = 736900
+std::sort Algorithm, Constant Data, N = 2500, T[ns] = 611000
+SelectionSort Algorithm, Random Uniform Data, N = 3000, T[ns] = 41044300
+SelectionSort Algorithm, Ascending Data, N = 3000, T[ns] = 42397900
+SelectionSort Algorithm, Descending Data, N = 3000, T[ns] = 40635900
+SelectionSort Algorithm, Constant Data, N = 3000, T[ns] = 45881800
+InsertionSort Algorithm, Random Uniform Data, N = 3000, T[ns] = 48300700
+InsertionSort Algorithm, Ascending Data, N = 3000, T[ns] = 44700
+InsertionSort Algorithm, Descending Data, N = 3000, T[ns] = 88658700
+InsertionSort Algorithm, Constant Data, N = 3000, T[ns] = 76700
+QuickSort Algorithm (Rightmost element as Pivot), Random Uniform Data, N = 3000, T[ns] = 4701700
+QuickSort Algorithm (Rightmost element as Pivot), Ascending Data, N = 3000, T[ns] = 127279400
+QuickSort Algorithm (Rightmost element as Pivot), Descending Data, N = 3000, T[ns] = 100072300
+QuickSort Algorithm (Rightmost element as Pivot), Constant Data, N = 3000, T[ns] = 124285800
+QuickSort Algorithm (Median of three as Pivot), Random Data, N = 3000, T[ns] = 6536000
+QuickSort Algorithm (Median of three as Pivot), Ascending Data, N = 3000, T[ns] = 126185100
+QuickSort Algorithm (Median of three as Pivot), Descending Data, N = 3000, T[ns] = 108251700
+QuickSort Algorithm (Median of three as Pivot), Constant Data, N = 3000, T[ns] = 130860800
+std::sort Algorithm, Random Uniform Data, N = 3000, T[ns] = 884700
+std::sort Algorithm, Ascending Data, N = 3000, T[ns] = 652400
+std::sort Algorithm, Descending Data, N = 3000, T[ns] = 1506400
+std::sort Algorithm, Constant Data, N = 3000, T[ns] = 691800
+SelectionSort Algorithm, Random Uniform Data, N = 3000, T[ns] = 41344600
+SelectionSort Algorithm, Ascending Data, N = 3000, T[ns] = 40187100
+SelectionSort Algorithm, Descending Data, N = 3000, T[ns] = 44545300
+SelectionSort Algorithm, Constant Data, N = 3000, T[ns] = 39746500
+InsertionSort Algorithm, Random Uniform Data, N = 3000, T[ns] = 45395000
+InsertionSort Algorithm, Ascending Data, N = 3000, T[ns] = 62700
+InsertionSort Algorithm, Descending Data, N = 3000, T[ns] = 92416500
+InsertionSort Algorithm, Constant Data, N = 3000, T[ns] = 95100
+QuickSort Algorithm (Rightmost element as Pivot), Random Uniform Data, N = 3000, T[ns] = 8069700
+QuickSort Algorithm (Rightmost element as Pivot), Ascending Data, N = 3000, T[ns] = 131208900
+QuickSort Algorithm (Rightmost element as Pivot), Descending Data, N = 3000, T[ns] = 98281300
+QuickSort Algorithm (Rightmost element as Pivot), Constant Data, N = 3000, T[ns] = 125708200
+QuickSort Algorithm (Median of three as Pivot), Random Data, N = 3000, T[ns] = 6515500
+QuickSort Algorithm (Median of three as Pivot), Ascending Data, N = 3000, T[ns] = 130163500
+QuickSort Algorithm (Median of three as Pivot), Descending Data, N = 3000, T[ns] = 100861900
+QuickSort Algorithm (Median of three as Pivot), Constant Data, N = 3000, T[ns] = 130943100
+std::sort Algorithm, Random Uniform Data, N = 3000, T[ns] = 934400
+std::sort Algorithm, Ascending Data, N = 3000, T[ns] = 727700
+std::sort Algorithm, Descending Data, N = 3000, T[ns] = 627700
+std::sort Algorithm, Constant Data, N = 3000, T[ns] = 819600
+SelectionSort Algorithm, Random Uniform Data, N = 3000, T[ns] = 44166200
+SelectionSort Algorithm, Ascending Data, N = 3000, T[ns] = 39937800
+SelectionSort Algorithm, Descending Data, N = 3000, T[ns] = 43096900
+SelectionSort Algorithm, Constant Data, N = 3000, T[ns] = 38870300
+InsertionSort Algorithm, Random Uniform Data, N = 3000, T[ns] = 47969000
+InsertionSort Algorithm, Ascending Data, N = 3000, T[ns] = 96100
+InsertionSort Algorithm, Descending Data, N = 3000, T[ns] = 86684100
+InsertionSort Algorithm, Constant Data, N = 3000, T[ns] = 47500
+QuickSort Algorithm (Rightmost element as Pivot), Random Uniform Data, N = 3000, T[ns] = 6682500
+QuickSort Algorithm (Rightmost element as Pivot), Ascending Data, N = 3000, T[ns] = 127358900
+QuickSort Algorithm (Rightmost element as Pivot), Descending Data, N = 3000, T[ns] = 98412800
+QuickSort Algorithm (Rightmost element as Pivot), Constant Data, N = 3000, T[ns] = 127903200
+QuickSort Algorithm (Median of three as Pivot), Random Data, N = 3000, T[ns] = 6158600
+QuickSort Algorithm (Median of three as Pivot), Ascending Data, N = 3000, T[ns] = 130041300
+QuickSort Algorithm (Median of three as Pivot), Descending Data, N = 3000, T[ns] = 100451000
+QuickSort Algorithm (Median of three as Pivot), Constant Data, N = 3000, T[ns] = 131262000
+std::sort Algorithm, Random Uniform Data, N = 3000, T[ns] = 941600
+std::sort Algorithm, Ascending Data, N = 3000, T[ns] = 606500
+std::sort Algorithm, Descending Data, N = 3000, T[ns] = 523700
+std::sort Algorithm, Constant Data, N = 3000, T[ns] = 1729900
+SelectionSort Algorithm, Random Uniform Data, N = 3000, T[ns] = 97036400
+SelectionSort Algorithm, Ascending Data, N = 3000, T[ns] = 54162500
+SelectionSort Algorithm, Descending Data, N = 3000, T[ns] = 40074700
+SelectionSort Algorithm, Constant Data, N = 3000, T[ns] = 38258300
+InsertionSort Algorithm, Random Uniform Data, N = 3000, T[ns] = 45970900
+InsertionSort Algorithm, Ascending Data, N = 3000, T[ns] = 116800
+InsertionSort Algorithm, Descending Data, N = 3000, T[ns] = 85503200
+InsertionSort Algorithm, Constant Data, N = 3000, T[ns] = 231400
+QuickSort Algorithm (Rightmost element as Pivot), Random Uniform Data, N = 3000, T[ns] = 6270800
+QuickSort Algorithm (Rightmost element as Pivot), Ascending Data, N = 3000, T[ns] = 128852400
+QuickSort Algorithm (Rightmost element as Pivot), Descending Data, N = 3000, T[ns] = 99606200
+QuickSort Algorithm (Rightmost element as Pivot), Constant Data, N = 3000, T[ns] = 129810400
+QuickSort Algorithm (Median of three as Pivot), Random Data, N = 3000, T[ns] = 6569700
+QuickSort Algorithm (Median of three as Pivot), Ascending Data, N = 3000, T[ns] = 127867900
+QuickSort Algorithm (Median of three as Pivot), Descending Data, N = 3000, T[ns] = 101528100
+QuickSort Algorithm (Median of three as Pivot), Constant Data, N = 3000, T[ns] = 129638700
+std::sort Algorithm, Random Uniform Data, N = 3000, T[ns] = 1068700
+std::sort Algorithm, Ascending Data, N = 3000, T[ns] = 548500
+std::sort Algorithm, Descending Data, N = 3000, T[ns] = 548600
+std::sort Algorithm, Constant Data, N = 3000, T[ns] = 781400
+SelectionSort Algorithm, Random Uniform Data, N = 3000, T[ns] = 44476600
+SelectionSort Algorithm, Ascending Data, N = 3000, T[ns] = 40659300
+SelectionSort Algorithm, Descending Data, N = 3000, T[ns] = 42295400
+SelectionSort Algorithm, Constant Data, N = 3000, T[ns] = 39440200
+InsertionSort Algorithm, Random Uniform Data, N = 3000, T[ns] = 45205300
+InsertionSort Algorithm, Ascending Data, N = 3000, T[ns] = 45300
+InsertionSort Algorithm, Descending Data, N = 3000, T[ns] = 93330200
+InsertionSort Algorithm, Constant Data, N = 3000, T[ns] = 73500
+QuickSort Algorithm (Rightmost element as Pivot), Random Uniform Data, N = 3000, T[ns] = 6096600
+QuickSort Algorithm (Rightmost element as Pivot), Ascending Data, N = 3000, T[ns] = 129229400
+QuickSort Algorithm (Rightmost element as Pivot), Descending Data, N = 3000, T[ns] = 104216300
+QuickSort Algorithm (Rightmost element as Pivot), Constant Data, N = 3000, T[ns] = 140289100
+QuickSort Algorithm (Median of three as Pivot), Random Data, N = 3000, T[ns] = 7073500
+QuickSort Algorithm (Median of three as Pivot), Ascending Data, N = 3000, T[ns] = 126665700
+QuickSort Algorithm (Median of three as Pivot), Descending Data, N = 3000, T[ns] = 104286700
+QuickSort Algorithm (Median of three as Pivot), Constant Data, N = 3000, T[ns] = 130499400
+std::sort Algorithm, Random Uniform Data, N = 3000, T[ns] = 1240900
+std::sort Algorithm, Ascending Data, N = 3000, T[ns] = 773900
+std::sort Algorithm, Descending Data, N = 3000, T[ns] = 658400
+std::sort Algorithm, Constant Data, N = 3000, T[ns] = 688300
+SelectionSort Algorithm, Random Uniform Data, N = 3000, T[ns] = 116326700
+SelectionSort Algorithm, Ascending Data, N = 3000, T[ns] = 42591800
+SelectionSort Algorithm, Descending Data, N = 3000, T[ns] = 48863300
+SelectionSort Algorithm, Constant Data, N = 3000, T[ns] = 41416600
+InsertionSort Algorithm, Random Uniform Data, N = 3000, T[ns] = 47271700
+InsertionSort Algorithm, Ascending Data, N = 3000, T[ns] = 46800
+InsertionSort Algorithm, Descending Data, N = 3000, T[ns] = 90558200
+InsertionSort Algorithm, Constant Data, N = 3000, T[ns] = 31900
+QuickSort Algorithm (Rightmost element as Pivot), Random Uniform Data, N = 3000, T[ns] = 4001000
+QuickSort Algorithm (Rightmost element as Pivot), Ascending Data, N = 3000, T[ns] = 131481900
+QuickSort Algorithm (Rightmost element as Pivot), Descending Data, N = 3000, T[ns] = 104449300
+QuickSort Algorithm (Rightmost element as Pivot), Constant Data, N = 3000, T[ns] = 128537900
+QuickSort Algorithm (Median of three as Pivot), Random Data, N = 3000, T[ns] = 6044600
+QuickSort Algorithm (Median of three as Pivot), Ascending Data, N = 3000, T[ns] = 126207600
+QuickSort Algorithm (Median of three as Pivot), Descending Data, N = 3000, T[ns] = 101462400
+QuickSort Algorithm (Median of three as Pivot), Constant Data, N = 3000, T[ns] = 129892100
+std::sort Algorithm, Random Uniform Data, N = 3000, T[ns] = 1276900
+std::sort Algorithm, Ascending Data, N = 3000, T[ns] = 794200
+std::sort Algorithm, Descending Data, N = 3000, T[ns] = 598200
+std::sort Algorithm, Constant Data, N = 3000, T[ns] = 819100
+SelectionSort Algorithm, Random Uniform Data, N = 3000, T[ns] = 42155700
+SelectionSort Algorithm, Ascending Data, N = 3000, T[ns] = 39297100
+SelectionSort Algorithm, Descending Data, N = 3000, T[ns] = 41439800
+SelectionSort Algorithm, Constant Data, N = 3000, T[ns] = 42508700
+InsertionSort Algorithm, Random Uniform Data, N = 3000, T[ns] = 48818800
+InsertionSort Algorithm, Ascending Data, N = 3000, T[ns] = 45800
+InsertionSort Algorithm, Descending Data, N = 3000, T[ns] = 89655000
+InsertionSort Algorithm, Constant Data, N = 3000, T[ns] = 63200
+QuickSort Algorithm (Rightmost element as Pivot), Random Uniform Data, N = 3000, T[ns] = 4009400
+QuickSort Algorithm (Rightmost element as Pivot), Ascending Data, N = 3000, T[ns] = 131669700
+QuickSort Algorithm (Rightmost element as Pivot), Descending Data, N = 3000, T[ns] = 98246500
+QuickSort Algorithm (Rightmost element as Pivot), Constant Data, N = 3000, T[ns] = 128313700
+QuickSort Algorithm (Median of three as Pivot), Random Data, N = 3000, T[ns] = 4957600
+QuickSort Algorithm (Median of three as Pivot), Ascending Data, N = 3000, T[ns] = 131400900
+QuickSort Algorithm (Median of three as Pivot), Descending Data, N = 3000, T[ns] = 102682300
+QuickSort Algorithm (Median of three as Pivot), Constant Data, N = 3000, T[ns] = 128818700
+std::sort Algorithm, Random Uniform Data, N = 3000, T[ns] = 1206700
+std::sort Algorithm, Ascending Data, N = 3000, T[ns] = 707400
+std::sort Algorithm, Descending Data, N = 3000, T[ns] = 553500
+std::sort Algorithm, Constant Data, N = 3000, T[ns] = 882400
+SelectionSort Algorithm, Random Uniform Data, N = 3500, T[ns] = 70061400
+SelectionSort Algorithm, Ascending Data, N = 3500, T[ns] = 53329800
+SelectionSort Algorithm, Descending Data, N = 3500, T[ns] = 57015200
+SelectionSort Algorithm, Constant Data, N = 3500, T[ns] = 145520300
+InsertionSort Algorithm, Random Uniform Data, N = 3500, T[ns] = 60897400
+InsertionSort Algorithm, Ascending Data, N = 3500, T[ns] = 135900
+InsertionSort Algorithm, Descending Data, N = 3500, T[ns] = 120118200
+InsertionSort Algorithm, Constant Data, N = 3500, T[ns] = 99300
+QuickSort Algorithm (Rightmost element as Pivot), Random Uniform Data, N = 3500, T[ns] = 8133700
+QuickSort Algorithm (Rightmost element as Pivot), Ascending Data, N = 3500, T[ns] = 170567900
+QuickSort Algorithm (Rightmost element as Pivot), Descending Data, N = 3500, T[ns] = 133530400
+QuickSort Algorithm (Rightmost element as Pivot), Constant Data, N = 3500, T[ns] = 174872400
+QuickSort Algorithm (Median of three as Pivot), Random Data, N = 3500, T[ns] = 12230600
+QuickSort Algorithm (Median of three as Pivot), Ascending Data, N = 3500, T[ns] = 174536700
+QuickSort Algorithm (Median of three as Pivot), Descending Data, N = 3500, T[ns] = 137946300
+QuickSort Algorithm (Median of three as Pivot), Constant Data, N = 3500, T[ns] = 170603600
+std::sort Algorithm, Random Uniform Data, N = 3500, T[ns] = 1110200
+std::sort Algorithm, Ascending Data, N = 3500, T[ns] = 765300
+std::sort Algorithm, Descending Data, N = 3500, T[ns] = 601000
+std::sort Algorithm, Constant Data, N = 3500, T[ns] = 733900
+SelectionSort Algorithm, Random Uniform Data, N = 3500, T[ns] = 54739600
+SelectionSort Algorithm, Ascending Data, N = 3500, T[ns] = 55365200
+SelectionSort Algorithm, Descending Data, N = 3500, T[ns] = 55240200
+SelectionSort Algorithm, Constant Data, N = 3500, T[ns] = 53991300
+InsertionSort Algorithm, Random Uniform Data, N = 3500, T[ns] = 61876900
+InsertionSort Algorithm, Ascending Data, N = 3500, T[ns] = 50600
+InsertionSort Algorithm, Descending Data, N = 3500, T[ns] = 116921200
+InsertionSort Algorithm, Constant Data, N = 3500, T[ns] = 52900
+QuickSort Algorithm (Rightmost element as Pivot), Random Uniform Data, N = 3500, T[ns] = 6797700
+QuickSort Algorithm (Rightmost element as Pivot), Ascending Data, N = 3500, T[ns] = 172262600
+QuickSort Algorithm (Rightmost element as Pivot), Descending Data, N = 3500, T[ns] = 131284900
+QuickSort Algorithm (Rightmost element as Pivot), Constant Data, N = 3500, T[ns] = 172956200
+QuickSort Algorithm (Median of three as Pivot), Random Data, N = 3500, T[ns] = 7552400
+QuickSort Algorithm (Median of three as Pivot), Ascending Data, N = 3500, T[ns] = 179023500
+QuickSort Algorithm (Median of three as Pivot), Descending Data, N = 3500, T[ns] = 134432200
+QuickSort Algorithm (Median of three as Pivot), Constant Data, N = 3500, T[ns] = 175671100
+std::sort Algorithm, Random Uniform Data, N = 3500, T[ns] = 1097400
+std::sort Algorithm, Ascending Data, N = 3500, T[ns] = 1281500
+std::sort Algorithm, Descending Data, N = 3500, T[ns] = 605800
+std::sort Algorithm, Constant Data, N = 3500, T[ns] = 1064600
+SelectionSort Algorithm, Random Uniform Data, N = 3500, T[ns] = 54655000
+SelectionSort Algorithm, Ascending Data, N = 3500, T[ns] = 55694000
+SelectionSort Algorithm, Descending Data, N = 3500, T[ns] = 57653900
+SelectionSort Algorithm, Constant Data, N = 3500, T[ns] = 57752300
+InsertionSort Algorithm, Random Uniform Data, N = 3500, T[ns] = 63347000
+InsertionSort Algorithm, Ascending Data, N = 3500, T[ns] = 56400
+InsertionSort Algorithm, Descending Data, N = 3500, T[ns] = 119578200
+InsertionSort Algorithm, Constant Data, N = 3500, T[ns] = 54500
+QuickSort Algorithm (Rightmost element as Pivot), Random Uniform Data, N = 3500, T[ns] = 5350200
+QuickSort Algorithm (Rightmost element as Pivot), Ascending Data, N = 3500, T[ns] = 168249600
+QuickSort Algorithm (Rightmost element as Pivot), Descending Data, N = 3500, T[ns] = 130080900
+QuickSort Algorithm (Rightmost element as Pivot), Constant Data, N = 3500, T[ns] = 167795400
+QuickSort Algorithm (Median of three as Pivot), Random Data, N = 3500, T[ns] = 7669900
+QuickSort Algorithm (Median of three as Pivot), Ascending Data, N = 3500, T[ns] = 174230500
+QuickSort Algorithm (Median of three as Pivot), Descending Data, N = 3500, T[ns] = 139322100
+QuickSort Algorithm (Median of three as Pivot), Constant Data, N = 3500, T[ns] = 168680800
+std::sort Algorithm, Random Uniform Data, N = 3500, T[ns] = 1191100
+std::sort Algorithm, Ascending Data, N = 3500, T[ns] = 775200
+std::sort Algorithm, Descending Data, N = 3500, T[ns] = 744900
+std::sort Algorithm, Constant Data, N = 3500, T[ns] = 1056900
+SelectionSort Algorithm, Random Uniform Data, N = 3500, T[ns] = 52315400
+SelectionSort Algorithm, Ascending Data, N = 3500, T[ns] = 53825100
+SelectionSort Algorithm, Descending Data, N = 3500, T[ns] = 55895200
+SelectionSort Algorithm, Constant Data, N = 3500, T[ns] = 53797700
+InsertionSort Algorithm, Random Uniform Data, N = 3500, T[ns] = 59284100
+InsertionSort Algorithm, Ascending Data, N = 3500, T[ns] = 83900
+InsertionSort Algorithm, Descending Data, N = 3500, T[ns] = 113858300
+InsertionSort Algorithm, Constant Data, N = 3500, T[ns] = 51600
+QuickSort Algorithm (Rightmost element as Pivot), Random Uniform Data, N = 3500, T[ns] = 7646500
+QuickSort Algorithm (Rightmost element as Pivot), Ascending Data, N = 3500, T[ns] = 173076800
+QuickSort Algorithm (Rightmost element as Pivot), Descending Data, N = 3500, T[ns] = 135269700
+QuickSort Algorithm (Rightmost element as Pivot), Constant Data, N = 3500, T[ns] = 168220300
+QuickSort Algorithm (Median of three as Pivot), Random Data, N = 3500, T[ns] = 8730600
+QuickSort Algorithm (Median of three as Pivot), Ascending Data, N = 3500, T[ns] = 169673400
+QuickSort Algorithm (Median of three as Pivot), Descending Data, N = 3500, T[ns] = 141102400
+QuickSort Algorithm (Median of three as Pivot), Constant Data, N = 3500, T[ns] = 175175300
+std::sort Algorithm, Random Uniform Data, N = 3500, T[ns] = 1097200
+std::sort Algorithm, Ascending Data, N = 3500, T[ns] = 693800
+std::sort Algorithm, Descending Data, N = 3500, T[ns] = 592800
+std::sort Algorithm, Constant Data, N = 3500, T[ns] = 811600
+SelectionSort Algorithm, Random Uniform Data, N = 3500, T[ns] = 54636500
+SelectionSort Algorithm, Ascending Data, N = 3500, T[ns] = 53624900
+SelectionSort Algorithm, Descending Data, N = 3500, T[ns] = 120166100
+SelectionSort Algorithm, Constant Data, N = 3500, T[ns] = 63777500
+InsertionSort Algorithm, Random Uniform Data, N = 3500, T[ns] = 62346500
+InsertionSort Algorithm, Ascending Data, N = 3500, T[ns] = 53900
+InsertionSort Algorithm, Descending Data, N = 3500, T[ns] = 117413600
+InsertionSort Algorithm, Constant Data, N = 3500, T[ns] = 50900
+QuickSort Algorithm (Rightmost element as Pivot), Random Uniform Data, N = 3500, T[ns] = 7084800
+QuickSort Algorithm (Rightmost element as Pivot), Ascending Data, N = 3500, T[ns] = 169857700
+QuickSort Algorithm (Rightmost element as Pivot), Descending Data, N = 3500, T[ns] = 132933400
+QuickSort Algorithm (Rightmost element as Pivot), Constant Data, N = 3500, T[ns] = 173073900
+QuickSort Algorithm (Median of three as Pivot), Random Data, N = 3500, T[ns] = 7046900
+QuickSort Algorithm (Median of three as Pivot), Ascending Data, N = 3500, T[ns] = 170417800
+QuickSort Algorithm (Median of three as Pivot), Descending Data, N = 3500, T[ns] = 142243700
+QuickSort Algorithm (Median of three as Pivot), Constant Data, N = 3500, T[ns] = 171374900
+std::sort Algorithm, Random Uniform Data, N = 3500, T[ns] = 1081300
+std::sort Algorithm, Ascending Data, N = 3500, T[ns] = 778700
+std::sort Algorithm, Descending Data, N = 3500, T[ns] = 538100
+std::sort Algorithm, Constant Data, N = 3500, T[ns] = 1570600
+SelectionSort Algorithm, Random Uniform Data, N = 3500, T[ns] = 56548000
+SelectionSort Algorithm, Ascending Data, N = 3500, T[ns] = 54430800
+SelectionSort Algorithm, Descending Data, N = 3500, T[ns] = 56372900
+SelectionSort Algorithm, Constant Data, N = 3500, T[ns] = 54662000
+InsertionSort Algorithm, Random Uniform Data, N = 3500, T[ns] = 60758000
+InsertionSort Algorithm, Ascending Data, N = 3500, T[ns] = 52200
+InsertionSort Algorithm, Descending Data, N = 3500, T[ns] = 123264100
+InsertionSort Algorithm, Constant Data, N = 3500, T[ns] = 53000
+QuickSort Algorithm (Rightmost element as Pivot), Random Uniform Data, N = 3500, T[ns] = 7181800
+QuickSort Algorithm (Rightmost element as Pivot), Ascending Data, N = 3500, T[ns] = 167031300
+QuickSort Algorithm (Rightmost element as Pivot), Descending Data, N = 3500, T[ns] = 137160100
+QuickSort Algorithm (Rightmost element as Pivot), Constant Data, N = 3500, T[ns] = 168043000
+QuickSort Algorithm (Median of three as Pivot), Random Data, N = 3500, T[ns] = 8292900
+QuickSort Algorithm (Median of three as Pivot), Ascending Data, N = 3500, T[ns] = 172134600
+QuickSort Algorithm (Median of three as Pivot), Descending Data, N = 3500, T[ns] = 138511800
+QuickSort Algorithm (Median of three as Pivot), Constant Data, N = 3500, T[ns] = 180821900
+std::sort Algorithm, Random Uniform Data, N = 3500, T[ns] = 1327700
+std::sort Algorithm, Ascending Data, N = 3500, T[ns] = 1102500
+std::sort Algorithm, Descending Data, N = 3500, T[ns] = 584400
+std::sort Algorithm, Constant Data, N = 3500, T[ns] = 822700
+SelectionSort Algorithm, Random Uniform Data, N = 3500, T[ns] = 54116300
+SelectionSort Algorithm, Ascending Data, N = 3500, T[ns] = 54327700
+SelectionSort Algorithm, Descending Data, N = 3500, T[ns] = 55254700
+SelectionSort Algorithm, Constant Data, N = 3500, T[ns] = 54742600
+InsertionSort Algorithm, Random Uniform Data, N = 3500, T[ns] = 64580700
+InsertionSort Algorithm, Ascending Data, N = 3500, T[ns] = 97500
+InsertionSort Algorithm, Descending Data, N = 3500, T[ns] = 116414500
+InsertionSort Algorithm, Constant Data, N = 3500, T[ns] = 96500
+QuickSort Algorithm (Rightmost element as Pivot), Random Uniform Data, N = 3500, T[ns] = 6911200
+QuickSort Algorithm (Rightmost element as Pivot), Ascending Data, N = 3500, T[ns] = 172774700
+QuickSort Algorithm (Rightmost element as Pivot), Descending Data, N = 3500, T[ns] = 133590900
+QuickSort Algorithm (Rightmost element as Pivot), Constant Data, N = 3500, T[ns] = 174460300
+QuickSort Algorithm (Median of three as Pivot), Random Data, N = 3500, T[ns] = 7200000
+QuickSort Algorithm (Median of three as Pivot), Ascending Data, N = 3500, T[ns] = 180274400
+QuickSort Algorithm (Median of three as Pivot), Descending Data, N = 3500, T[ns] = 138619500
+QuickSort Algorithm (Median of three as Pivot), Constant Data, N = 3500, T[ns] = 173500500
+std::sort Algorithm, Random Uniform Data, N = 3500, T[ns] = 1386500
+std::sort Algorithm, Ascending Data, N = 3500, T[ns] = 1093400
+std::sort Algorithm, Descending Data, N = 3500, T[ns] = 688800
+std::sort Algorithm, Constant Data, N = 3500, T[ns] = 783400
+SelectionSort Algorithm, Random Uniform Data, N = 4000, T[ns] = 69122100
+SelectionSort Algorithm, Ascending Data, N = 4000, T[ns] = 71630400
+SelectionSort Algorithm, Descending Data, N = 4000, T[ns] = 71547100
+SelectionSort Algorithm, Constant Data, N = 4000, T[ns] = 69594300
+InsertionSort Algorithm, Random Uniform Data, N = 4000, T[ns] = 77220200
+InsertionSort Algorithm, Ascending Data, N = 4000, T[ns] = 83500
+InsertionSort Algorithm, Descending Data, N = 4000, T[ns] = 149292500
+InsertionSort Algorithm, Constant Data, N = 4000, T[ns] = 82900
+QuickSort Algorithm (Rightmost element as Pivot), Random Uniform Data, N = 4000, T[ns] = 9217900
+QuickSort Algorithm (Rightmost element as Pivot), Ascending Data, N = 4000, T[ns] = 217663100
+QuickSort Algorithm (Rightmost element as Pivot), Descending Data, N = 4000, T[ns] = 175580500
+QuickSort Algorithm (Rightmost element as Pivot), Constant Data, N = 4000, T[ns] = 219586500
+QuickSort Algorithm (Median of three as Pivot), Random Data, N = 4000, T[ns] = 7247700
+QuickSort Algorithm (Median of three as Pivot), Ascending Data, N = 4000, T[ns] = 222440900
+QuickSort Algorithm (Median of three as Pivot), Descending Data, N = 4000, T[ns] = 175396400
+QuickSort Algorithm (Median of three as Pivot), Constant Data, N = 4000, T[ns] = 307622100
+std::sort Algorithm, Random Uniform Data, N = 4000, T[ns] = 1439000
+std::sort Algorithm, Ascending Data, N = 4000, T[ns] = 943900
+std::sort Algorithm, Descending Data, N = 4000, T[ns] = 594300
+std::sort Algorithm, Constant Data, N = 4000, T[ns] = 1015000
+SelectionSort Algorithm, Random Uniform Data, N = 4000, T[ns] = 68709400
+SelectionSort Algorithm, Ascending Data, N = 4000, T[ns] = 72563700
+SelectionSort Algorithm, Descending Data, N = 4000, T[ns] = 67405700
+SelectionSort Algorithm, Constant Data, N = 4000, T[ns] = 66317600
+InsertionSort Algorithm, Random Uniform Data, N = 4000, T[ns] = 77213700
+InsertionSort Algorithm, Ascending Data, N = 4000, T[ns] = 139000
+InsertionSort Algorithm, Descending Data, N = 4000, T[ns] = 150474300
+InsertionSort Algorithm, Constant Data, N = 4000, T[ns] = 86300
+QuickSort Algorithm (Rightmost element as Pivot), Random Uniform Data, N = 4000, T[ns] = 8222700
+QuickSort Algorithm (Rightmost element as Pivot), Ascending Data, N = 4000, T[ns] = 219084000
+QuickSort Algorithm (Rightmost element as Pivot), Descending Data, N = 4000, T[ns] = 166025500
+QuickSort Algorithm (Rightmost element as Pivot), Constant Data, N = 4000, T[ns] = 217773200
+QuickSort Algorithm (Median of three as Pivot), Random Data, N = 4000, T[ns] = 9554200
+QuickSort Algorithm (Median of three as Pivot), Ascending Data, N = 4000, T[ns] = 216521100
+QuickSort Algorithm (Median of three as Pivot), Descending Data, N = 4000, T[ns] = 176063700
+QuickSort Algorithm (Median of three as Pivot), Constant Data, N = 4000, T[ns] = 226676500
+std::sort Algorithm, Random Uniform Data, N = 4000, T[ns] = 1400300
+std::sort Algorithm, Ascending Data, N = 4000, T[ns] = 819500
+std::sort Algorithm, Descending Data, N = 4000, T[ns] = 731700
+std::sort Algorithm, Constant Data, N = 4000, T[ns] = 866600
+SelectionSort Algorithm, Random Uniform Data, N = 4000, T[ns] = 71019200
+SelectionSort Algorithm, Ascending Data, N = 4000, T[ns] = 68537400
+SelectionSort Algorithm, Descending Data, N = 4000, T[ns] = 67476400
+SelectionSort Algorithm, Constant Data, N = 4000, T[ns] = 67095200
+InsertionSort Algorithm, Random Uniform Data, N = 4000, T[ns] = 81095100
+InsertionSort Algorithm, Ascending Data, N = 4000, T[ns] = 116000
+InsertionSort Algorithm, Descending Data, N = 4000, T[ns] = 148779200
+InsertionSort Algorithm, Constant Data, N = 4000, T[ns] = 53600
+QuickSort Algorithm (Rightmost element as Pivot), Random Uniform Data, N = 4000, T[ns] = 6404200
+QuickSort Algorithm (Rightmost element as Pivot), Ascending Data, N = 4000, T[ns] = 278283100
+QuickSort Algorithm (Rightmost element as Pivot), Descending Data, N = 4000, T[ns] = 226283500
+QuickSort Algorithm (Rightmost element as Pivot), Constant Data, N = 4000, T[ns] = 242330600
+QuickSort Algorithm (Median of three as Pivot), Random Data, N = 4000, T[ns] = 10534300
+QuickSort Algorithm (Median of three as Pivot), Ascending Data, N = 4000, T[ns] = 251666300
+QuickSort Algorithm (Median of three as Pivot), Descending Data, N = 4000, T[ns] = 205581100
+QuickSort Algorithm (Median of three as Pivot), Constant Data, N = 4000, T[ns] = 289393900
+std::sort Algorithm, Random Uniform Data, N = 4000, T[ns] = 1753400
+std::sort Algorithm, Ascending Data, N = 4000, T[ns] = 845600
+std::sort Algorithm, Descending Data, N = 4000, T[ns] = 1381200
+std::sort Algorithm, Constant Data, N = 4000, T[ns] = 867800
+SelectionSort Algorithm, Random Uniform Data, N = 4000, T[ns] = 85429200
+SelectionSort Algorithm, Ascending Data, N = 4000, T[ns] = 88838700
+SelectionSort Algorithm, Descending Data, N = 4000, T[ns] = 89544600
+SelectionSort Algorithm, Constant Data, N = 4000, T[ns] = 99544300
+InsertionSort Algorithm, Random Uniform Data, N = 4000, T[ns] = 100094100
+InsertionSort Algorithm, Ascending Data, N = 4000, T[ns] = 58800
+InsertionSort Algorithm, Descending Data, N = 4000, T[ns] = 175556100
+InsertionSort Algorithm, Constant Data, N = 4000, T[ns] = 116500
+QuickSort Algorithm (Rightmost element as Pivot), Random Uniform Data, N = 4000, T[ns] = 25909000
+QuickSort Algorithm (Rightmost element as Pivot), Ascending Data, N = 4000, T[ns] = 268232400
+QuickSort Algorithm (Rightmost element as Pivot), Descending Data, N = 4000, T[ns] = 191237500
+QuickSort Algorithm (Rightmost element as Pivot), Constant Data, N = 4000, T[ns] = 247904600
+QuickSort Algorithm (Median of three as Pivot), Random Data, N = 4000, T[ns] = 11560300
+QuickSort Algorithm (Median of three as Pivot), Ascending Data, N = 4000, T[ns] = 269011300
+QuickSort Algorithm (Median of three as Pivot), Descending Data, N = 4000, T[ns] = 251140300
+QuickSort Algorithm (Median of three as Pivot), Constant Data, N = 4000, T[ns] = 299863800
+std::sort Algorithm, Random Uniform Data, N = 4000, T[ns] = 1451200
+std::sort Algorithm, Ascending Data, N = 4000, T[ns] = 1003600
+std::sort Algorithm, Descending Data, N = 4000, T[ns] = 821900
+std::sort Algorithm, Constant Data, N = 4000, T[ns] = 920700
+SelectionSort Algorithm, Random Uniform Data, N = 4000, T[ns] = 88423000
+SelectionSort Algorithm, Ascending Data, N = 4000, T[ns] = 66220000
+SelectionSort Algorithm, Descending Data, N = 4000, T[ns] = 71222300
+SelectionSort Algorithm, Constant Data, N = 4000, T[ns] = 67318200
+InsertionSort Algorithm, Random Uniform Data, N = 4000, T[ns] = 76320200
+InsertionSort Algorithm, Ascending Data, N = 4000, T[ns] = 57300
+InsertionSort Algorithm, Descending Data, N = 4000, T[ns] = 206898900
+InsertionSort Algorithm, Constant Data, N = 4000, T[ns] = 62700
+QuickSort Algorithm (Rightmost element as Pivot), Random Uniform Data, N = 4000, T[ns] = 11541100
+QuickSort Algorithm (Rightmost element as Pivot), Ascending Data, N = 4000, T[ns] = 222037300
+QuickSort Algorithm (Rightmost element as Pivot), Descending Data, N = 4000, T[ns] = 161450600
+QuickSort Algorithm (Rightmost element as Pivot), Constant Data, N = 4000, T[ns] = 187207800
+QuickSort Algorithm (Median of three as Pivot), Random Data, N = 4000, T[ns] = 10186900
+QuickSort Algorithm (Median of three as Pivot), Ascending Data, N = 4000, T[ns] = 229347000
+QuickSort Algorithm (Median of three as Pivot), Descending Data, N = 4000, T[ns] = 172079300
+QuickSort Algorithm (Median of three as Pivot), Constant Data, N = 4000, T[ns] = 187051900
+std::sort Algorithm, Random Uniform Data, N = 4000, T[ns] = 1404600
+std::sort Algorithm, Ascending Data, N = 4000, T[ns] = 1099000
+std::sort Algorithm, Descending Data, N = 4000, T[ns] = 1140700
+std::sort Algorithm, Constant Data, N = 4000, T[ns] = 826800
+SelectionSort Algorithm, Random Uniform Data, N = 4000, T[ns] = 67166900
+SelectionSort Algorithm, Ascending Data, N = 4000, T[ns] = 68552800
+SelectionSort Algorithm, Descending Data, N = 4000, T[ns] = 71213400
+SelectionSort Algorithm, Constant Data, N = 4000, T[ns] = 70772600
+InsertionSort Algorithm, Random Uniform Data, N = 4000, T[ns] = 79619800
+InsertionSort Algorithm, Ascending Data, N = 4000, T[ns] = 54100
+InsertionSort Algorithm, Descending Data, N = 4000, T[ns] = 157644700
+InsertionSort Algorithm, Constant Data, N = 4000, T[ns] = 56600
+QuickSort Algorithm (Rightmost element as Pivot), Random Uniform Data, N = 4000, T[ns] = 9005100
+QuickSort Algorithm (Rightmost element as Pivot), Ascending Data, N = 4000, T[ns] = 222245500
+QuickSort Algorithm (Rightmost element as Pivot), Descending Data, N = 4000, T[ns] = 171199100
+QuickSort Algorithm (Rightmost element as Pivot), Constant Data, N = 4000, T[ns] = 223176500
+QuickSort Algorithm (Median of three as Pivot), Random Data, N = 4000, T[ns] = 9285100
+QuickSort Algorithm (Median of three as Pivot), Ascending Data, N = 4000, T[ns] = 213398100
+QuickSort Algorithm (Median of three as Pivot), Descending Data, N = 4000, T[ns] = 137022700
+QuickSort Algorithm (Median of three as Pivot), Constant Data, N = 4000, T[ns] = 225586300
+std::sort Algorithm, Random Uniform Data, N = 4000, T[ns] = 1371000
+std::sort Algorithm, Ascending Data, N = 4000, T[ns] = 927400
+std::sort Algorithm, Descending Data, N = 4000, T[ns] = 717400
+std::sort Algorithm, Constant Data, N = 4000, T[ns] = 841300
+SelectionSort Algorithm, Random Uniform Data, N = 4000, T[ns] = 71773400
+SelectionSort Algorithm, Ascending Data, N = 4000, T[ns] = 68484600
+SelectionSort Algorithm, Descending Data, N = 4000, T[ns] = 70089300
+SelectionSort Algorithm, Constant Data, N = 4000, T[ns] = 73473000
+InsertionSort Algorithm, Random Uniform Data, N = 4000, T[ns] = 79813400
+InsertionSort Algorithm, Ascending Data, N = 4000, T[ns] = 125200
+InsertionSort Algorithm, Descending Data, N = 4000, T[ns] = 149948700
+InsertionSort Algorithm, Constant Data, N = 4000, T[ns] = 60600
+QuickSort Algorithm (Rightmost element as Pivot), Random Uniform Data, N = 4000, T[ns] = 8330400
+QuickSort Algorithm (Rightmost element as Pivot), Ascending Data, N = 4000, T[ns] = 224638500
+QuickSort Algorithm (Rightmost element as Pivot), Descending Data, N = 4000, T[ns] = 159713800
+QuickSort Algorithm (Rightmost element as Pivot), Constant Data, N = 4000, T[ns] = 183653000
+QuickSort Algorithm (Median of three as Pivot), Random Data, N = 4000, T[ns] = 10037100
+QuickSort Algorithm (Median of three as Pivot), Ascending Data, N = 4000, T[ns] = 208772500
+QuickSort Algorithm (Median of three as Pivot), Descending Data, N = 4000, T[ns] = 131697500
+QuickSort Algorithm (Median of three as Pivot), Constant Data, N = 4000, T[ns] = 214659500
+std::sort Algorithm, Random Uniform Data, N = 4000, T[ns] = 1270000
+std::sort Algorithm, Ascending Data, N = 4000, T[ns] = 702700
+std::sort Algorithm, Descending Data, N = 4000, T[ns] = 990900
+std::sort Algorithm, Constant Data, N = 4000, T[ns] = 942000
+SelectionSort Algorithm, Random Uniform Data, N = 4500, T[ns] = 96412800
+SelectionSort Algorithm, Ascending Data, N = 4500, T[ns] = 84689600
+SelectionSort Algorithm, Descending Data, N = 4500, T[ns] = 88069300
+SelectionSort Algorithm, Constant Data, N = 4500, T[ns] = 85696600
+InsertionSort Algorithm, Random Uniform Data, N = 4500, T[ns] = 96479100
+InsertionSort Algorithm, Ascending Data, N = 4500, T[ns] = 125500
+InsertionSort Algorithm, Descending Data, N = 4500, T[ns] = 189274000
+InsertionSort Algorithm, Constant Data, N = 4500, T[ns] = 84800
+QuickSort Algorithm (Rightmost element as Pivot), Random Uniform Data, N = 4500, T[ns] = 21289500
+QuickSort Algorithm (Rightmost element as Pivot), Ascending Data, N = 4500, T[ns] = 273250800
+QuickSort Algorithm (Rightmost element as Pivot), Descending Data, N = 4500, T[ns] = 216937400
+QuickSort Algorithm (Rightmost element as Pivot), Constant Data, N = 4500, T[ns] = 268849300
+QuickSort Algorithm (Median of three as Pivot), Random Data, N = 4500, T[ns] = 11824200
+QuickSort Algorithm (Median of three as Pivot), Ascending Data, N = 4500, T[ns] = 282798300
+QuickSort Algorithm (Median of three as Pivot), Descending Data, N = 4500, T[ns] = 201486800
+QuickSort Algorithm (Median of three as Pivot), Constant Data, N = 4500, T[ns] = 283597000
+std::sort Algorithm, Random Uniform Data, N = 4500, T[ns] = 1713300
+std::sort Algorithm, Ascending Data, N = 4500, T[ns] = 718200
+std::sort Algorithm, Descending Data, N = 4500, T[ns] = 804000
+std::sort Algorithm, Constant Data, N = 4500, T[ns] = 1460400
+SelectionSort Algorithm, Random Uniform Data, N = 4500, T[ns] = 151095500
+SelectionSort Algorithm, Ascending Data, N = 4500, T[ns] = 89095900
+SelectionSort Algorithm, Descending Data, N = 4500, T[ns] = 86870900
+SelectionSort Algorithm, Constant Data, N = 4500, T[ns] = 86986300
+InsertionSort Algorithm, Random Uniform Data, N = 4500, T[ns] = 131392700
+InsertionSort Algorithm, Ascending Data, N = 4500, T[ns] = 148200
+InsertionSort Algorithm, Descending Data, N = 4500, T[ns] = 190113600
+InsertionSort Algorithm, Constant Data, N = 4500, T[ns] = 77000
+QuickSort Algorithm (Rightmost element as Pivot), Random Uniform Data, N = 4500, T[ns] = 13807900
+QuickSort Algorithm (Rightmost element as Pivot), Ascending Data, N = 4500, T[ns] = 287855100
+QuickSort Algorithm (Rightmost element as Pivot), Descending Data, N = 4500, T[ns] = 238854400
+QuickSort Algorithm (Rightmost element as Pivot), Constant Data, N = 4500, T[ns] = 272919000
+QuickSort Algorithm (Median of three as Pivot), Random Data, N = 4500, T[ns] = 9063800
+QuickSort Algorithm (Median of three as Pivot), Ascending Data, N = 4500, T[ns] = 304118100
+QuickSort Algorithm (Median of three as Pivot), Descending Data, N = 4500, T[ns] = 202581300
+QuickSort Algorithm (Median of three as Pivot), Constant Data, N = 4500, T[ns] = 271001400
+std::sort Algorithm, Random Uniform Data, N = 4500, T[ns] = 1515900
+std::sort Algorithm, Ascending Data, N = 4500, T[ns] = 911300
+std::sort Algorithm, Descending Data, N = 4500, T[ns] = 798600
+std::sort Algorithm, Constant Data, N = 4500, T[ns] = 1050000
+SelectionSort Algorithm, Random Uniform Data, N = 4500, T[ns] = 84752800
+SelectionSort Algorithm, Ascending Data, N = 4500, T[ns] = 87854700
+SelectionSort Algorithm, Descending Data, N = 4500, T[ns] = 86895900
+SelectionSort Algorithm, Constant Data, N = 4500, T[ns] = 83469300
+InsertionSort Algorithm, Random Uniform Data, N = 4500, T[ns] = 97385000
+InsertionSort Algorithm, Ascending Data, N = 4500, T[ns] = 64600
+InsertionSort Algorithm, Descending Data, N = 4500, T[ns] = 194079800
+InsertionSort Algorithm, Constant Data, N = 4500, T[ns] = 67600
+QuickSort Algorithm (Rightmost element as Pivot), Random Uniform Data, N = 4500, T[ns] = 12490000
+QuickSort Algorithm (Rightmost element as Pivot), Ascending Data, N = 4500, T[ns] = 271588400
+QuickSort Algorithm (Rightmost element as Pivot), Descending Data, N = 4500, T[ns] = 202008000
+QuickSort Algorithm (Rightmost element as Pivot), Constant Data, N = 4500, T[ns] = 285763400
+QuickSort Algorithm (Median of three as Pivot), Random Data, N = 4500, T[ns] = 13348500
+QuickSort Algorithm (Median of three as Pivot), Ascending Data, N = 4500, T[ns] = 288906600
+QuickSort Algorithm (Median of three as Pivot), Descending Data, N = 4500, T[ns] = 198813200
+QuickSort Algorithm (Median of three as Pivot), Constant Data, N = 4500, T[ns] = 274193200
+std::sort Algorithm, Random Uniform Data, N = 4500, T[ns] = 1805900
+std::sort Algorithm, Ascending Data, N = 4500, T[ns] = 1233500
+std::sort Algorithm, Descending Data, N = 4500, T[ns] = 816300
+std::sort Algorithm, Constant Data, N = 4500, T[ns] = 1329900
+SelectionSort Algorithm, Random Uniform Data, N = 4500, T[ns] = 84697900
+SelectionSort Algorithm, Ascending Data, N = 4500, T[ns] = 84389400
+SelectionSort Algorithm, Descending Data, N = 4500, T[ns] = 94104300
+SelectionSort Algorithm, Constant Data, N = 4500, T[ns] = 86836900
+InsertionSort Algorithm, Random Uniform Data, N = 4500, T[ns] = 97899900
+InsertionSort Algorithm, Ascending Data, N = 4500, T[ns] = 48500
+InsertionSort Algorithm, Descending Data, N = 4500, T[ns] = 194390000
+InsertionSort Algorithm, Constant Data, N = 4500, T[ns] = 118900
+QuickSort Algorithm (Rightmost element as Pivot), Random Uniform Data, N = 4500, T[ns] = 13903200
+QuickSort Algorithm (Rightmost element as Pivot), Ascending Data, N = 4500, T[ns] = 279116600
+QuickSort Algorithm (Rightmost element as Pivot), Descending Data, N = 4500, T[ns] = 196690700
+QuickSort Algorithm (Rightmost element as Pivot), Constant Data, N = 4500, T[ns] = 284769500
+QuickSort Algorithm (Median of three as Pivot), Random Data, N = 4500, T[ns] = 10204200
+QuickSort Algorithm (Median of three as Pivot), Ascending Data, N = 4500, T[ns] = 278500300
+QuickSort Algorithm (Median of three as Pivot), Descending Data, N = 4500, T[ns] = 199442500
+QuickSort Algorithm (Median of three as Pivot), Constant Data, N = 4500, T[ns] = 271656700
+std::sort Algorithm, Random Uniform Data, N = 4500, T[ns] = 2372600
+std::sort Algorithm, Ascending Data, N = 4500, T[ns] = 943000
+std::sort Algorithm, Descending Data, N = 4500, T[ns] = 932400
+std::sort Algorithm, Constant Data, N = 4500, T[ns] = 1299900
+SelectionSort Algorithm, Random Uniform Data, N = 4500, T[ns] = 88739400
+SelectionSort Algorithm, Ascending Data, N = 4500, T[ns] = 84216100
+SelectionSort Algorithm, Descending Data, N = 4500, T[ns] = 84655100
+SelectionSort Algorithm, Constant Data, N = 4500, T[ns] = 89804300
+InsertionSort Algorithm, Random Uniform Data, N = 4500, T[ns] = 95507800
+InsertionSort Algorithm, Ascending Data, N = 4500, T[ns] = 95400
+InsertionSort Algorithm, Descending Data, N = 4500, T[ns] = 185962100
+InsertionSort Algorithm, Constant Data, N = 4500, T[ns] = 75400
+QuickSort Algorithm (Rightmost element as Pivot), Random Uniform Data, N = 4500, T[ns] = 12223200
+QuickSort Algorithm (Rightmost element as Pivot), Ascending Data, N = 4500, T[ns] = 271240200
+QuickSort Algorithm (Rightmost element as Pivot), Descending Data, N = 4500, T[ns] = 196353100
+QuickSort Algorithm (Rightmost element as Pivot), Constant Data, N = 4500, T[ns] = 267620800
+QuickSort Algorithm (Median of three as Pivot), Random Data, N = 4500, T[ns] = 11790100
+QuickSort Algorithm (Median of three as Pivot), Ascending Data, N = 4500, T[ns] = 273378700
+QuickSort Algorithm (Median of three as Pivot), Descending Data, N = 4500, T[ns] = 202579900
+QuickSort Algorithm (Median of three as Pivot), Constant Data, N = 4500, T[ns] = 269703800
+std::sort Algorithm, Random Uniform Data, N = 4500, T[ns] = 1639600
+std::sort Algorithm, Ascending Data, N = 4500, T[ns] = 794600
+std::sort Algorithm, Descending Data, N = 4500, T[ns] = 872700
+std::sort Algorithm, Constant Data, N = 4500, T[ns] = 1241000
+SelectionSort Algorithm, Random Uniform Data, N = 4500, T[ns] = 109645000
+SelectionSort Algorithm, Ascending Data, N = 4500, T[ns] = 85722600
+SelectionSort Algorithm, Descending Data, N = 4500, T[ns] = 86964800
+SelectionSort Algorithm, Constant Data, N = 4500, T[ns] = 83154900
+InsertionSort Algorithm, Random Uniform Data, N = 4500, T[ns] = 96743200
+InsertionSort Algorithm, Ascending Data, N = 4500, T[ns] = 102500
+InsertionSort Algorithm, Descending Data, N = 4500, T[ns] = 192668700
+InsertionSort Algorithm, Constant Data, N = 4500, T[ns] = 70400
+QuickSort Algorithm (Rightmost element as Pivot), Random Uniform Data, N = 4500, T[ns] = 13667800
+QuickSort Algorithm (Rightmost element as Pivot), Ascending Data, N = 4500, T[ns] = 281772500
+QuickSort Algorithm (Rightmost element as Pivot), Descending Data, N = 4500, T[ns] = 197757800
+QuickSort Algorithm (Rightmost element as Pivot), Constant Data, N = 4500, T[ns] = 256656100
+QuickSort Algorithm (Median of three as Pivot), Random Data, N = 4500, T[ns] = 13487600
+QuickSort Algorithm (Median of three as Pivot), Ascending Data, N = 4500, T[ns] = 286337500
+QuickSort Algorithm (Median of three as Pivot), Descending Data, N = 4500, T[ns] = 191922100
+QuickSort Algorithm (Median of three as Pivot), Constant Data, N = 4500, T[ns] = 260383700
+std::sort Algorithm, Random Uniform Data, N = 4500, T[ns] = 1459100
+std::sort Algorithm, Ascending Data, N = 4500, T[ns] = 1195700
+std::sort Algorithm, Descending Data, N = 4500, T[ns] = 921400
+std::sort Algorithm, Constant Data, N = 4500, T[ns] = 1059800
+SelectionSort Algorithm, Random Uniform Data, N = 4500, T[ns] = 87154600
+SelectionSort Algorithm, Ascending Data, N = 4500, T[ns] = 86861100
+SelectionSort Algorithm, Descending Data, N = 4500, T[ns] = 85834800
+SelectionSort Algorithm, Constant Data, N = 4500, T[ns] = 85692100
+InsertionSort Algorithm, Random Uniform Data, N = 4500, T[ns] = 99756700
+InsertionSort Algorithm, Ascending Data, N = 4500, T[ns] = 134400
+InsertionSort Algorithm, Descending Data, N = 4500, T[ns] = 191174600
+InsertionSort Algorithm, Constant Data, N = 4500, T[ns] = 67400
+QuickSort Algorithm (Rightmost element as Pivot), Random Uniform Data, N = 4500, T[ns] = 13348200
+QuickSort Algorithm (Rightmost element as Pivot), Ascending Data, N = 4500, T[ns] = 272199500
+QuickSort Algorithm (Rightmost element as Pivot), Descending Data, N = 4500, T[ns] = 191241800
+QuickSort Algorithm (Rightmost element as Pivot), Constant Data, N = 4500, T[ns] = 261227300
+QuickSort Algorithm (Median of three as Pivot), Random Data, N = 4500, T[ns] = 13631200
+QuickSort Algorithm (Median of three as Pivot), Ascending Data, N = 4500, T[ns] = 285058700
+QuickSort Algorithm (Median of three as Pivot), Descending Data, N = 4500, T[ns] = 194415400
+QuickSort Algorithm (Median of three as Pivot), Constant Data, N = 4500, T[ns] = 265075300
+std::sort Algorithm, Random Uniform Data, N = 4500, T[ns] = 2052000
+std::sort Algorithm, Ascending Data, N = 4500, T[ns] = 1048600
+std::sort Algorithm, Descending Data, N = 4500, T[ns] = 1313800
+std::sort Algorithm, Constant Data, N = 4500, T[ns] = 2194500

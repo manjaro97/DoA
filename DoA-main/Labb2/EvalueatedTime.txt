@@ -1,0 +1,160 @@
+InsertionSort Algorithm, Ascending Data, T[ns], 39042, N, 1000, samples, 7, stdDev, 23055
+InsertionSort Algorithm, Ascending Data, T[ns], 41457, N, 1500, samples, 7, stdDev, 32796
+InsertionSort Algorithm, Ascending Data, T[ns], 44557, N, 2000, samples, 7, stdDev, 26443
+InsertionSort Algorithm, Ascending Data, T[ns], 67500, N, 2500, samples, 7, stdDev, 36037
+InsertionSort Algorithm, Ascending Data, T[ns], 65457, N, 3000, samples, 7, stdDev, 27135
+InsertionSort Algorithm, Ascending Data, T[ns], 75771, N, 3500, samples, 7, stdDev, 29752
+InsertionSort Algorithm, Ascending Data, T[ns], 90557, N, 4000, samples, 7, stdDev, 33139
+InsertionSort Algorithm, Ascending Data, T[ns], 102728, N, 4500, samples, 7, stdDev, 33885
+InsertionSort Algorithm, Constant Data, T[ns], 38457, N, 1000, samples, 7, stdDev, 27199
+InsertionSort Algorithm, Constant Data, T[ns], 27657, N, 1500, samples, 7, stdDev, 6015
+InsertionSort Algorithm, Constant Data, T[ns], 43757, N, 2000, samples, 7, stdDev, 29628
+InsertionSort Algorithm, Constant Data, T[ns], 71114, N, 2500, samples, 7, stdDev, 33944
+InsertionSort Algorithm, Constant Data, T[ns], 88471, N, 3000, samples, 7, stdDev, 61357
+InsertionSort Algorithm, Constant Data, T[ns], 65528, N, 3500, samples, 7, stdDev, 20514
+InsertionSort Algorithm, Constant Data, T[ns], 74171, N, 4000, samples, 7, stdDev, 20917
+InsertionSort Algorithm, Constant Data, T[ns], 80214, N, 4500, samples, 7, stdDev, 16779
+InsertionSort Algorithm, Descending Data, T[ns], 16600385, N, 1000, samples, 7, stdDev, 12101839
+InsertionSort Algorithm, Descending Data, T[ns], 24138457, N, 1500, samples, 7, stdDev, 1010198
+InsertionSort Algorithm, Descending Data, T[ns], 41062571, N, 2000, samples, 7, stdDev, 1266757
+InsertionSort Algorithm, Descending Data, T[ns], 62854157, N, 2500, samples, 7, stdDev, 1478276
+InsertionSort Algorithm, Descending Data, T[ns], 89543700, N, 3000, samples, 7, stdDev, 2643545
+InsertionSort Algorithm, Descending Data, T[ns], 118224014, N, 3500, samples, 7, stdDev, 2816079
+InsertionSort Algorithm, Descending Data, T[ns], 162656342, N, 4000, samples, 7, stdDev, 20106778
+InsertionSort Algorithm, Descending Data, T[ns], 191094685, N, 4500, samples, 7, stdDev, 2748370
+InsertionSort Algorithm, Random Uniform Data, T[ns], 6186542, N, 1000, samples, 7, stdDev, 858222
+InsertionSort Algorithm, Random Uniform Data, T[ns], 11790957, N, 1500, samples, 7, stdDev, 656817
+InsertionSort Algorithm, Random Uniform Data, T[ns], 21876400, N, 2000, samples, 7, stdDev, 1004270
+InsertionSort Algorithm, Random Uniform Data, T[ns], 33579057, N, 2500, samples, 7, stdDev, 3021424
+InsertionSort Algorithm, Random Uniform Data, T[ns], 46990200, N, 3000, samples, 7, stdDev, 1355833
+InsertionSort Algorithm, Random Uniform Data, T[ns], 61870085, N, 3500, samples, 7, stdDev, 1631208
+InsertionSort Algorithm, Random Uniform Data, T[ns], 81625214, N, 4000, samples, 7, stdDev, 7706156
+InsertionSort Algorithm, Random Uniform Data, T[ns], 102166342, N, 4500, samples, 7, stdDev, 11994888
+QuickSort Algorithm (Median of three as Pivot), Ascending Data, T[ns], 17175985, N, 1000, samples, 7, stdDev, 1467293
+QuickSort Algorithm (Median of three as Pivot), Ascending Data, T[ns], 35119542, N, 1500, samples, 7, stdDev, 818231
+QuickSort Algorithm (Median of three as Pivot), Ascending Data, T[ns], 71603600, N, 2000, samples, 7, stdDev, 26247066
+QuickSort Algorithm (Median of three as Pivot), Ascending Data, T[ns], 94626214, N, 2500, samples, 7, stdDev, 9272617
+QuickSort Algorithm (Median of three as Pivot), Ascending Data, T[ns], 128361714, N, 3000, samples, 7, stdDev, 1992925
+QuickSort Algorithm (Median of three as Pivot), Ascending Data, T[ns], 174327271, N, 3500, samples, 7, stdDev, 3764997
+QuickSort Algorithm (Median of three as Pivot), Ascending Data, T[ns], 230165314, N, 4000, samples, 7, stdDev, 20551662
+QuickSort Algorithm (Median of three as Pivot), Ascending Data, T[ns], 285585457, N, 4500, samples, 7, stdDev, 8962656
+QuickSort Algorithm (Median of three as Pivot), Constant Data, T[ns], 16809714, N, 1000, samples, 7, stdDev, 1209305
+QuickSort Algorithm (Median of three as Pivot), Constant Data, T[ns], 41062514, N, 1500, samples, 7, stdDev, 9759082
+QuickSort Algorithm (Median of three as Pivot), Constant Data, T[ns], 62128328, N, 2000, samples, 7, stdDev, 4725712
+QuickSort Algorithm (Median of three as Pivot), Constant Data, T[ns], 91525942, N, 2500, samples, 7, stdDev, 2781668
+QuickSort Algorithm (Median of three as Pivot), Constant Data, T[ns], 130273542, N, 3000, samples, 7, stdDev, 800564
+QuickSort Algorithm (Median of three as Pivot), Constant Data, T[ns], 173689728, N, 3500, samples, 7, stdDev, 3722679
+QuickSort Algorithm (Median of three as Pivot), Constant Data, T[ns], 250122000, N, 4000, samples, 7, stdDev, 44255602
+QuickSort Algorithm (Median of three as Pivot), Constant Data, T[ns], 270801585, N, 4500, samples, 7, stdDev, 6745629
+QuickSort Algorithm (Median of three as Pivot), Descending Data, T[ns], 12751242, N, 1000, samples, 7, stdDev, 761356
+QuickSort Algorithm (Median of three as Pivot), Descending Data, T[ns], 27470700, N, 1500, samples, 7, stdDev, 1181510
+QuickSort Algorithm (Median of three as Pivot), Descending Data, T[ns], 47454900, N, 2000, samples, 7, stdDev, 2063664
+QuickSort Algorithm (Median of three as Pivot), Descending Data, T[ns], 72064842, N, 2500, samples, 7, stdDev, 1402793
+QuickSort Algorithm (Median of three as Pivot), Descending Data, T[ns], 102789157, N, 3000, samples, 7, stdDev, 2524884
+QuickSort Algorithm (Median of three as Pivot), Descending Data, T[ns], 138882571, N, 3500, samples, 7, stdDev, 2308589
+QuickSort Algorithm (Median of three as Pivot), Descending Data, T[ns], 178425857, N, 4000, samples, 7, stdDev, 37754080
+QuickSort Algorithm (Median of three as Pivot), Descending Data, T[ns], 198748742, N, 4500, samples, 7, stdDev, 3830881
+QuickSort Algorithm (Median of three as Pivot), Random Data, T[ns], 1312228, N, 1000, samples, 7, stdDev, 192489
+QuickSort Algorithm (Median of three as Pivot), Random Data, T[ns], 2011614, N, 1500, samples, 7, stdDev, 576133
+QuickSort Algorithm (Median of three as Pivot), Random Data, T[ns], 3283785, N, 2000, samples, 7, stdDev, 404830
+QuickSort Algorithm (Median of three as Pivot), Random Data, T[ns], 8322228, N, 2500, samples, 7, stdDev, 11204782
+QuickSort Algorithm (Median of three as Pivot), Random Data, T[ns], 6265071, N, 3000, samples, 7, stdDev, 615501
+QuickSort Algorithm (Median of three as Pivot), Random Data, T[ns], 8389042, N, 3500, samples, 7, stdDev, 1661143
+QuickSort Algorithm (Median of three as Pivot), Random Data, T[ns], 9772228, N, 4000, samples, 7, stdDev, 1235090
+QuickSort Algorithm (Median of three as Pivot), Random Data, T[ns], 11907085, N, 4500, samples, 7, stdDev, 1628010
+QuickSort Algorithm (Rightmost element as Pivot), Ascending Data, T[ns], 20106985, N, 1000, samples, 7, stdDev, 7229488
+QuickSort Algorithm (Rightmost element as Pivot), Ascending Data, T[ns], 39981271, N, 1500, samples, 7, stdDev, 12156566
+QuickSort Algorithm (Rightmost element as Pivot), Ascending Data, T[ns], 61737442, N, 2000, samples, 7, stdDev, 2228142
+QuickSort Algorithm (Rightmost element as Pivot), Ascending Data, T[ns], 90638000, N, 2500, samples, 7, stdDev, 1697202
+QuickSort Algorithm (Rightmost element as Pivot), Ascending Data, T[ns], 129582942, N, 3000, samples, 7, stdDev, 1753188
+QuickSort Algorithm (Rightmost element as Pivot), Ascending Data, T[ns], 170545800, N, 3500, samples, 7, stdDev, 2152061
+QuickSort Algorithm (Rightmost element as Pivot), Ascending Data, T[ns], 236026271, N, 4000, samples, 7, stdDev, 23791965
+QuickSort Algorithm (Rightmost element as Pivot), Ascending Data, T[ns], 276717585, N, 4500, samples, 7, stdDev, 5905126
+QuickSort Algorithm (Rightmost element as Pivot), Constant Data, T[ns], 16553314, N, 1000, samples, 7, stdDev, 1249840
+QuickSort Algorithm (Rightmost element as Pivot), Constant Data, T[ns], 35393928, N, 1500, samples, 7, stdDev, 1613404
+QuickSort Algorithm (Rightmost element as Pivot), Constant Data, T[ns], 64193300, N, 2000, samples, 7, stdDev, 6340909
+QuickSort Algorithm (Rightmost element as Pivot), Constant Data, T[ns], 92342314, N, 2500, samples, 7, stdDev, 2273778
+QuickSort Algorithm (Rightmost element as Pivot), Constant Data, T[ns], 129264042, N, 3000, samples, 7, stdDev, 4819004
+QuickSort Algorithm (Rightmost element as Pivot), Constant Data, T[ns], 171345928, N, 3500, samples, 7, stdDev, 2951980
+QuickSort Algorithm (Rightmost element as Pivot), Constant Data, T[ns], 217376028, N, 4000, samples, 7, stdDev, 22805946
+QuickSort Algorithm (Rightmost element as Pivot), Constant Data, T[ns], 271115057, N, 4500, samples, 7, stdDev, 10201152
+QuickSort Algorithm (Rightmost element as Pivot), Descending Data, T[ns], 13089371, N, 1000, samples, 7, stdDev, 1394440
+QuickSort Algorithm (Rightmost element as Pivot), Descending Data, T[ns], 29548028, N, 1500, samples, 7, stdDev, 5859984
+QuickSort Algorithm (Rightmost element as Pivot), Descending Data, T[ns], 57184228, N, 2000, samples, 7, stdDev, 19612587
+QuickSort Algorithm (Rightmost element as Pivot), Descending Data, T[ns], 84147200, N, 2500, samples, 7, stdDev, 28135586
+QuickSort Algorithm (Rightmost element as Pivot), Descending Data, T[ns], 100469242, N, 3000, samples, 7, stdDev, 2528136
+QuickSort Algorithm (Rightmost element as Pivot), Descending Data, T[ns], 133407185, N, 3500, samples, 7, stdDev, 2184196
+QuickSort Algorithm (Rightmost element as Pivot), Descending Data, T[ns], 178784357, N, 4000, samples, 7, stdDev, 21732082
+QuickSort Algorithm (Rightmost element as Pivot), Descending Data, T[ns], 205691885, N, 4500, samples, 7, stdDev, 15490890
+QuickSort Algorithm (Rightmost element as Pivot), Random Uniform Data, T[ns], 1273100, N, 1000, samples, 7, stdDev, 173784
+QuickSort Algorithm (Rightmost element as Pivot), Random Uniform Data, T[ns], 1994685, N, 1500, samples, 7, stdDev, 666145
+QuickSort Algorithm (Rightmost element as Pivot), Random Uniform Data, T[ns], 3544557, N, 2000, samples, 7, stdDev, 1047321
+QuickSort Algorithm (Rightmost element as Pivot), Random Uniform Data, T[ns], 4600171, N, 2500, samples, 7, stdDev, 1132199
+QuickSort Algorithm (Rightmost element as Pivot), Random Uniform Data, T[ns], 5690242, N, 3000, samples, 7, stdDev, 1404307
+QuickSort Algorithm (Rightmost element as Pivot), Random Uniform Data, T[ns], 7015128, N, 3500, samples, 7, stdDev, 802899
+QuickSort Algorithm (Rightmost element as Pivot), Random Uniform Data, T[ns], 11232914, N, 4000, samples, 7, stdDev, 6156394
+QuickSort Algorithm (Rightmost element as Pivot), Random Uniform Data, T[ns], 14389971, N, 4500, samples, 7, stdDev, 2880745
+SelectionSort Algorithm, Ascending Data, T[ns], 5058342, N, 1000, samples, 7, stdDev, 1015545
+SelectionSort Algorithm, Ascending Data, T[ns], 11189957, N, 1500, samples, 7, stdDev, 711535
+SelectionSort Algorithm, Ascending Data, T[ns], 18307357, N, 2000, samples, 7, stdDev, 812957
+SelectionSort Algorithm, Ascending Data, T[ns], 28559085, N, 2500, samples, 7, stdDev, 789052
+SelectionSort Algorithm, Ascending Data, T[ns], 42747642, N, 3000, samples, 7, stdDev, 4798282
+SelectionSort Algorithm, Ascending Data, T[ns], 54371071, N, 3500, samples, 7, stdDev, 817922
+SelectionSort Algorithm, Ascending Data, T[ns], 72118228, N, 4000, samples, 7, stdDev, 7106712
+SelectionSort Algorithm, Ascending Data, T[ns], 86118485, N, 4500, samples, 7, stdDev, 1741844
+SelectionSort Algorithm, Constant Data, T[ns], 5285728, N, 1000, samples, 7, stdDev, 1289562
+SelectionSort Algorithm, Constant Data, T[ns], 10394485, N, 1500, samples, 7, stdDev, 716038
+SelectionSort Algorithm, Constant Data, T[ns], 18613385, N, 2000, samples, 7, stdDev, 604942
+SelectionSort Algorithm, Constant Data, T[ns], 30132457, N, 2500, samples, 7, stdDev, 2541904
+SelectionSort Algorithm, Constant Data, T[ns], 40874628, N, 3000, samples, 7, stdDev, 2456142
+SelectionSort Algorithm, Constant Data, T[ns], 69177671, N, 3500, samples, 7, stdDev, 31337205
+SelectionSort Algorithm, Constant Data, T[ns], 73445028, N, 4000, samples, 7, stdDev, 10900860
+SelectionSort Algorithm, Constant Data, T[ns], 85948628, N, 4500, samples, 7, stdDev, 2098070
+SelectionSort Algorithm, Descending Data, T[ns], 5592328, N, 1000, samples, 7, stdDev, 884526
+SelectionSort Algorithm, Descending Data, T[ns], 11164228, N, 1500, samples, 7, stdDev, 944138
+SelectionSort Algorithm, Descending Data, T[ns], 18844328, N, 2000, samples, 7, stdDev, 535641
+SelectionSort Algorithm, Descending Data, T[ns], 29799928, N, 2500, samples, 7, stdDev, 1230863
+SelectionSort Algorithm, Descending Data, T[ns], 42993042, N, 3000, samples, 7, stdDev, 2773659
+SelectionSort Algorithm, Descending Data, T[ns], 65371171, N, 3500, samples, 7, stdDev, 22384960
+SelectionSort Algorithm, Descending Data, T[ns], 72642685, N, 4000, samples, 7, stdDev, 7086926
+SelectionSort Algorithm, Descending Data, T[ns], 87627871, N, 4500, samples, 7, stdDev, 2821851
+SelectionSort Algorithm, Random Uniform Data, T[ns], 6355300, N, 1000, samples, 7, stdDev, 1182905
+SelectionSort Algorithm, Random Uniform Data, T[ns], 11198742, N, 1500, samples, 7, stdDev, 1198025
+SelectionSort Algorithm, Random Uniform Data, T[ns], 18791428, N, 2000, samples, 7, stdDev, 638471
+SelectionSort Algorithm, Random Uniform Data, T[ns], 28667928, N, 2500, samples, 7, stdDev, 935586
+SelectionSort Algorithm, Random Uniform Data, T[ns], 60935785, N, 3000, samples, 7, stdDev, 29412603
+SelectionSort Algorithm, Random Uniform Data, T[ns], 56724600, N, 3500, samples, 7, stdDev, 5564290
+SelectionSort Algorithm, Random Uniform Data, T[ns], 74520457, N, 4000, samples, 7, stdDev, 8009565
+SelectionSort Algorithm, Random Uniform Data, T[ns], 100356857, N, 4500, samples, 7, stdDev, 22278078
+std::sort Algorithm, Ascending Data, T[ns], 218457, N, 1000, samples, 7, stdDev, 45605
+std::sort Algorithm, Ascending Data, T[ns], 375871, N, 1500, samples, 7, stdDev, 97938
+std::sort Algorithm, Ascending Data, T[ns], 502128, N, 2000, samples, 7, stdDev, 138780
+std::sort Algorithm, Ascending Data, T[ns], 597642, N, 2500, samples, 7, stdDev, 100326
+std::sort Algorithm, Ascending Data, T[ns], 687228, N, 3000, samples, 7, stdDev, 82786
+std::sort Algorithm, Ascending Data, T[ns], 927200, N, 3500, samples, 7, stdDev, 210348
+std::sort Algorithm, Ascending Data, T[ns], 905957, N, 4000, samples, 7, stdDev, 120196
+std::sort Algorithm, Ascending Data, T[ns], 977842, N, 4500, samples, 7, stdDev, 179070
+std::sort Algorithm, Constant Data, T[ns], 255128, N, 1000, samples, 7, stdDev, 36522
+std::sort Algorithm, Constant Data, T[ns], 466614, N, 1500, samples, 7, stdDev, 169480
+std::sort Algorithm, Constant Data, T[ns], 530614, N, 2000, samples, 7, stdDev, 77059
+std::sort Algorithm, Constant Data, T[ns], 653042, N, 2500, samples, 7, stdDev, 92413
+std::sort Algorithm, Constant Data, T[ns], 916071, N, 3000, samples, 7, stdDev, 338584
+std::sort Algorithm, Constant Data, T[ns], 977671, N, 3500, samples, 7, stdDev, 271019
+std::sort Algorithm, Constant Data, T[ns], 897171, N, 4000, samples, 7, stdDev, 61316
+std::sort Algorithm, Constant Data, T[ns], 1376500, N, 4500, samples, 7, stdDev, 360448
+std::sort Algorithm, Descending Data, T[ns], 201400, N, 1000, samples, 7, stdDev, 48309
+std::sort Algorithm, Descending Data, T[ns], 342514, N, 1500, samples, 7, stdDev, 77000
+std::sort Algorithm, Descending Data, T[ns], 390614, N, 2000, samples, 7, stdDev, 74211
+std::sort Algorithm, Descending Data, T[ns], 594585, N, 2500, samples, 7, stdDev, 192411
+std::sort Algorithm, Descending Data, T[ns], 716642, N, 3000, samples, 7, stdDev, 325385
+std::sort Algorithm, Descending Data, T[ns], 622257, N, 3500, samples, 7, stdDev, 65000
+std::sort Algorithm, Descending Data, T[ns], 911157, N, 4000, samples, 7, stdDev, 255818
+std::sort Algorithm, Descending Data, T[ns], 922742, N, 4500, samples, 7, stdDev, 167488
+std::sort Algorithm, Random Uniform Data, T[ns], 388200, N, 1000, samples, 7, stdDev, 66227
+std::sort Algorithm, Random Uniform Data, T[ns], 648714, N, 1500, samples, 7, stdDev, 87425
+std::sort Algorithm, Random Uniform Data, T[ns], 775257, N, 2000, samples, 7, stdDev, 89935
+std::sort Algorithm, Random Uniform Data, T[ns], 862185, N, 2500, samples, 7, stdDev, 88376
+std::sort Algorithm, Random Uniform Data, T[ns], 1079128, N, 3000, samples, 7, stdDev, 150868
+std::sort Algorithm, Random Uniform Data, T[ns], 1184485, N, 3500, samples, 7, stdDev, 115097
+std::sort Algorithm, Random Uniform Data, T[ns], 1441357, N, 4000, samples, 7, stdDev, 138782
+std::sort Algorithm, Random Uniform Data, T[ns], 1794057, N, 4500, samples, 7, stdDev, 297929
